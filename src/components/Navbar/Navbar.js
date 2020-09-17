@@ -21,7 +21,7 @@ const Navbar = () => {
   const [button, setButton] = useState(true);
 
   const handleClick = () => setClick(!click)
-  const closeMobileMenu = ()=> setClick(false)
+  const closeMobileMenu = () => setClick(false)
 
   const showButton = () => {
     if (window.innerWidth <= 960) {
@@ -59,30 +59,30 @@ const Navbar = () => {
               </NavItem>
 
               <NavItem>
-                <NavLinks to='/'>
-                  About Us
+                <NavLinks to='/Diseases'>
+                  Diseases
                 </NavLinks>
               </NavItem>
 
               <NavItem>
-                <NavLinks to='/'>
+                <NavLinks to='/ClinicalTrials'>
                   Clinical Trials
                 </NavLinks>
               </NavItem>
 
               <NavItem>
-                <NavLinks to='/'>
+                <NavLinks to='/Blogs'>
                   Blogs
                 </NavLinks>
               </NavItem>
 
               <NavItemBtn>
                 {button ? (
-                  <NavBtnLink to="/sign-in">
+                  <NavBtnLink to="/SignIn">
                     <Button primary> SIGN IN</Button>
                   </NavBtnLink>
                 ) : (
-                    <NavBtnLink to="/sign-in">
+                    <NavBtnLink to="/SignIn">
                       <Button fontBig primary>
                         SIGN IN
                     </Button>

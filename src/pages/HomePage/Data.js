@@ -4,9 +4,9 @@ export const homeObjOne = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Ayurveda',
-  headline: 'Lead Generation Specialist for Ayurveda',
-  description: 'We help you all regarding ayurveda. Our team of unique specialist can help you with clinical trials.',
+  topLine: 'Ayutrial',
+  headline: 'Ayutrial is a platform for trustworthy clinical trial results in Ayurvedic Medicine.',
+  description: 'We also help you all regarding minor ailments that can be cured using home-remedies.ayurveda.',
   buttonLabel: 'Get Started',
   imgStart: '',
   start:'',
@@ -20,13 +20,13 @@ export const homeObjTwo = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Instant Setup',
-  headline: 'Extremely quick onboarding process',
+  topLine: 'Clinical Trials',
+  headline: 'Trustworthy Clinical Trial Data',
   description:
-    "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.",
+    "Our system uses blockchain to ensure that the results of clinical trials are not breached.",
   buttonLabel: 'Learn More',
   imgStart: '',
-  img: require('../../images/svg-2.svg'),
+  img: require('../../images/tube.jpeg'),
   alt: 'Vault',
   start: ''
 };
@@ -37,14 +37,14 @@ export const homeObjThree = {
   lightTopLine: false,
   lightText: false,
   lightTextDesc: false,
-  topLine: 'Sarah Jeni',
+  topLine: 'Ayurvedic Medicines',
   headline:
-    'Ultra helped me increase my revenue by over 3X in less than 3 months!',
+    'Find out which ayurvedic medicine is suitable for your ailment',
   description:
-    "Their team is wonderful! I can't believe I didn't start working with them earlier.",
-  buttonLabel: 'View Case Study',
+    "These are simple ayurvedic home remedies being used in the Indian subcontinent for centuries. Generally, they are without side effects!",
+  buttonLabel: 'View List of Ailments',
   imgStart: 'start',
-  img: require('../../images/profile.jpg'),
+  img: require('../../images/Herbs.jpg'),
   alt: 'Vault',
   start: 'true'
 };

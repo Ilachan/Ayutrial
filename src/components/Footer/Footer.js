@@ -14,7 +14,6 @@ import {
     FooterContainer,
     FooterSubscription,
     FooterSubHeading,
-    FooterSubText,
     Form,
     FormInput,
     FooterLink,

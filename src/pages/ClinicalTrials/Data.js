@@ -1,55 +1,70 @@
 export const homeObjOne = {
+  primary: true,
   lightBg: false,
+  lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Exclusive Access',
-  headline: 'Unlimited Transactions with zero fees',
+  topLine: 'Clinical Trials',
+  headline: 'Trustworthy Clinical Trial Data',
   description:
-    'Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees',
-  buttonLabel: 'Get Started',
-  imgStart: '',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Credit Card'
-};
-
-export const homeObjTwo = {
-  lightBg: false,
-  lightText: true,
-  lightTextDesc: true,
-  topLine: '100% Secure',
-  headline: 'Stay protected 24/7 anywhere anytime',
-  description:
-    'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
+    "Our system uses blockchain to ensure that the results of clinical trials are not breached.",
   buttonLabel: 'Learn More',
   imgStart: '',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Vault'
+  start: '',
+  img: require('../../images/data.svg'),
+  alt: 'Image'
 };
 
 export const homeObjThree = {
+  primary: false,
   lightBg: true,
+  lightTopLine: false,
   lightText: false,
   lightTextDesc: false,
-  topLine: 'Easy Setup',
-  headline: 'Super fast and simple onboarding process',
+  topLine: 'Ayurvedic Medicines',
+  headline:
+    'Find out which ayurvedic medicine is suitable for your ailment',
   description:
-    "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
-  buttonLabel: 'Start Now',
+    "These are simple ayurvedic home remedies being used in the Indian subcontinent for centuries. Generally, they are without side effects!",
+  buttonLabel: 'View List of Ailments',
   imgStart: 'start',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Vault'
+  img: require('../../images/Herbs.jpg'),
+  alt: 'Vault',
+  start: 'true'
 };
 
-export const homeObjFour = {
+
+export const homeObjTwo = {
+  primary: true,
   lightBg: false,
+  lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Data Analytics',
-  headline: 'Every transaction is stored on our secure cloud database',
+  topLine: 'Clinical Trials',
+  headline: 'Trustworthy Clinical Trial Data',
   description:
-    'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
-  buttonLabel: 'Sign Up Now',
-  imgStart: 'start',
-  img: require('../../images/svg-1.svg'),
-  alt: 'Vault'
+    "Our system uses blockchain to ensure that the results of clinical trials are not breached.",
+  buttonLabel: 'Learn More',
+  imgStart: '',
+  img: require('../../images/tube.jpeg'),
+  alt: 'Vault',
+  start: ''
 };
+
+
+// export const homeObjFour = {
+//   primary: true,
+//   lightBg: false,
+//   lightTopLine: true,
+//   lightText: true,
+//   lightTextDesc: true,
+//   topLine: 'Secure Database',
+//   headline: 'All your data is stored on our secure server',
+//   description:
+//     'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
+//   buttonLabel: 'Sign Up Now',
+//   imgStart: 'start',
+//   img: require('../../images/svg-3.svg'),
+//   alt: 'Vault',
+//   start: 'true'
+// };

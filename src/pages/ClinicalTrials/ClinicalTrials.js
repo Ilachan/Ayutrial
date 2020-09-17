@@ -1,14 +1,15 @@
 import React from 'react';
 import { InfoSection } from '../../components';
-import { homeObjOne, homeObjThree } from './Data';
+import { homeObjOne, homeObjTwo, homeObjThree } from './Data';
 
-function Services() {
+function CLinicalTrials() {
   return (
     <>
       <InfoSection {...homeObjOne} />
       <InfoSection {...homeObjThree} />
+      <InfoSection {...homeObjTwo} />
     </>
   );
 }
 
-export default Services;
+export default CLinicalTrials;

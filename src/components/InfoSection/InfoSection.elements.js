@@ -6,6 +6,8 @@ export const InfoSec = styled.div`
   background: ${({ lightBg }) => (lightBg ? '#fff' : '#F6F7CA')};
 `;
 
+
+
 export const InfoRow = styled.div`
   display: flex;
   margin: 0 -15px -15px -15px;

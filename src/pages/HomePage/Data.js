@@ -10,8 +10,8 @@ export const homeObjOne = {
   buttonLabel: 'Get Started',
   imgStart: '',
   start:'',
-   img: require('../../images/medicine.svg'),
-  alt:'Image'
+  img: require('../../images/medicine.svg'),
+  alt:'Image'                  
       };
 
 export const homeObjTwo = {

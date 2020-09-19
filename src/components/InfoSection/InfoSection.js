@@ -26,7 +26,8 @@ const InfoSection = ({
   topLine,
   start,
   img,
-  alt
+  alt,
+  buttonLink
 }) => {
   return (
     <>
@@ -38,7 +39,7 @@ const InfoSection = ({
                 <TopLine lightTopLine={lightTopLine}>{topLine}</TopLine>
                 <Heading lightText={lightText}>{headline}</Heading>
                 <Subtitle lightTextDesc={lightTextDesc}>{description}</Subtitle>
-                <Link to="/signIn">
+                <Link to={buttonLink}>
                   <Button1 big fontBig primary={primary}>
                     {buttonLabel}
                   </Button1>
@@ -54,7 +55,7 @@ const InfoSection = ({
 
         </Container>
       </InfoSec>
-
+      
     </>
   )
 }

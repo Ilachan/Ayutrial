@@ -9,6 +9,7 @@ export const homeObjOne = {
   description:
     "Our system uses blockchain to ensure that the results of clinical trials are not breached.",
   buttonLabel: 'Learn More',
+  buttonLink:'../Blogs',
   imgStart: '',
   start: '',
   img: require('../../images/data.svg'),
@@ -45,6 +46,7 @@ export const homeObjTwo = {
   description:
     "Our system uses blockchain to ensure that the results of clinical trials are not breached.",
   buttonLabel: 'Learn More',
+  // buttonLink:require('../ClinicalTrials/ClinicalTrialData'),
   imgStart: '',
   img: require('../../images/tube.jpeg'),
   alt: 'Vault',
@@ -52,19 +54,4 @@ export const homeObjTwo = {
 };
 
 
-// export const homeObjFour = {
-//   primary: true,
-//   lightBg: false,
-//   lightTopLine: true,
-//   lightText: true,
-//   lightTextDesc: true,
-//   topLine: 'Secure Database',
-//   headline: 'All your data is stored on our secure server',
-//   description:
-//     'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
-//   buttonLabel: 'Sign Up Now',
-//   imgStart: 'start',
-//   img: require('../../images/svg-3.svg'),
-//   alt: 'Vault',
-//   start: 'true'
-// };
+

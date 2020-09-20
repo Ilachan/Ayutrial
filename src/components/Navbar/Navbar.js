@@ -59,8 +59,8 @@ const Navbar = () => {
               </NavItem>
 
               <NavItem>
-                <NavLinks to='/Diseases'>
-                  Diseases
+                <NavLinks to='/HomeRemedy'>
+                  Home Remedy
                 </NavLinks>
               </NavItem>
 

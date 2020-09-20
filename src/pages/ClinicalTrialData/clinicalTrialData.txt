@@ -1,0 +1,2128 @@
+Study List:
+
+Study 1:
+  NCT Number:                   NCT04288219
+  Title:                        Non-Invasive Positive Pressure Ventilation Management of High Altitude Pulmonary Edema
+  Status:                       Not yet recruiting
+  Conditions:                   High Altitude Pulmonary Edema|Non-Invasive Positive Pressure Ventilation|Hypoxia
+  Interventions:                Device: Non-Invasive Positive Pressure Ventilation|Drug: Nifedipine|Other: supplemental oxygen
+  Sponsor/Collaborators:        Massachusetts General Hospital|Himalayan Rescue Association
+  Age:                          18 Years to 80 Years   (Adult, Older Adult)
+  Enrollment:                   16
+  Study Designs:                Allocation: Randomized|Intervention Model: Single Group Assignment|Masking: None (Open Label)|Primary Purpose: Treatment
+  Start Date:                   March 2020
+  Completion Date:              June 2021
+  Locations:                    Himalayan Rescue Association, Kathmandu, Nepal
+  
+`Study 2:
+  NCT Number:                   NCT04282915
+  Title:                        Reducing Stigma Among Healthcare Providers (RESHAPE-cRCT)
+  Status:                       Not yet recruiting
+  Conditions:                   Mental Disorder|Depressive Disorder|Anxiety Disorder|Alcohol Use Disorder|Psychotic Disorders
+  Interventions:                Other: Reducing Stigma among Healthcare Providers (RESHAPE)|Other: mental health Gap Action Programme
+  Sponsor/Collaborators:        George Washington University|Duke University|Transcultural Psychosocial Organization Nepal|King's College London
+  Age:                          16 Years and older   (Child, Adult, Older Adult)
+  Enrollment:                   1750
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Care Provider, Outcomes Assessor)|Primary Purpose: Health Services Research
+  Start Date:                   November 2020
+  Completion Date:              June 2024
+  Locations:                    Transcultural Psychosocial Organization Nepal, Pokhara, Province 4, Nepal
+
+Study 3:
+  NCT Number:                   NCT04267367
+  Title:                        Effectiveness of Dietitian-led Dietary Approach to Management of Diabetes (DIAM-D)
+  Status:                       Not yet recruiting
+  Study Results:                No Results Available
+  Conditions:                   Diabetes
+  Interventions:                Behavioral: Dietitian-led dietary approach to management of diabetes
+  Sponsor/Collaborators:        Purbanchal University
+  Age:                          20 Years to 64 Years   (Adult)
+  Enrollment:                   156
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Supportive Care
+  Start Date:                   August 1, 2020
+  Completion Date:              June 15, 2022
+  Locations:                    Asian College for Advance Studies, Purbanchal University, Lalitpur, Bagmati, Nepal
+
+Study 4:
+  NCT Number:                   NCT04234165
+  Title:                        Safety and Efficacy of Bipolar vs Monopolar Transurethral Resection of Bladder Tumor-A Randomized Controlled Trial
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Obturator Jerk in TURBT
+  Interventions:                Device: TURBT
+  Sponsor/Collaborators:        Tribhuvan University, Nepal
+  Age:                          Child, Adult, Older Adult
+  Enrollment:                   70
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Treatment
+  Start Date:                   May 1, 2017
+  Completion Date:              November 1, 2018
+  Locations:                    TUTH, Kathmandu, Three, Nepal
+
+Study 5:
+  NCT Number:                   NCT04199013
+  Title:                        Comparison of Ropivacaine With or Without Fentanyl in Spinal Anaesthesia for Lower Limb Surgeries
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Leg Injury|Arthroplasty, Replacement, Knee
+  Interventions:                Drug: Ropivacaine 0.75% Injectable Solution|Drug: Fentanyl Citrate
+  Sponsor/Collaborators:        Tribhuvan University Teaching Hospital, Institute Of Medicine.
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   74
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Care Provider, Investigator)|Primary Purpose: Treatment
+  Start Date:                   January 10, 2020
+  Completion Date:              December 2020
+  Locations:                    Tribhuvan University Teaching Hospital, Kathmandu, Bagmati, Nepal
+
+Study 6:
+  NCT Number:                   NCT04188353
+  Title:                        Effect of Intravenous Administration of Mannitol on ONSD in Patients With Raised ICP
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Raised Intracranial Pressure
+  Interventions:                Device: Optic nerve sheath diameter measurement|Drug: Mannitol
+  Sponsor/Collaborators:        Tribhuvan University Teaching Hospital, Institute Of Medicine.
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   40
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   February 24, 2019
+  Completion Date:              September 24, 2019
+  Locations:                    Maharajgunj Medical Campus, Kathmandu, Bagmati, Nepal
+
+Study 7:
+  NCT Number:                   NCT04161937
+  Title:                        Work-Site Intervention Study to Prevent Diabetes in Nepal
+  Status:                       Active, not recruiting
+  Study Results:                No Results Available
+  Conditions:                   Diabetes
+  Interventions:                Behavioral: Behavioural Intervention
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 100 Years   (Adult, Older Adult)
+  Enrollment:                   163
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   January 1, 2018
+  Completion Date:              February 28, 2021
+  Locations:                    Hulas Wire industry Private Limited and Pragati Textile Industry Private Limited, Biratnagar, Provinve 1, Nepal
+
+Study 8:
+  NCT Number:                   NCT04126889
+  Title:                        Awareness and Knowledge of the Surgical Safety Checklist Among Operational Staff in University Teaching Hospital, Kathmandu, Nepal: A Cross-sectional Questionnaire
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Surgical Checklist
+  Interventions:                Other: questionnaire survey
+  Sponsor/Collaborators:        Fukushima Medical University
+  Age:                          24 Years to 55 Years   (Adult)
+  Enrollment:                   150
+  Study Designs:                Observational Model: Other|Time Perspective: Cross-Sectional
+  Start Date:                   September 1, 2018
+  Completion Date:              October 1, 2019
+  Locations:                    Tribhuvan University Teaching Hospital, Kathmandu, Nepal
+
+Study 9:
+  NCT Number:                   NCT04082676
+  Title:                        Height Versus Height and Weight Based Spinal Bupivacaine on Maternal Haemodynamics for Elective Cesarean in Short Stature Patients
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Maternal Hypotension After Spinal Anesthesia
+  Interventions:                Drug: Hyperbaric bupivacaine spinal
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 40 Years   (Adult)
+  Enrollment:                   112
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Investigator, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   November 30, 2019
+  Completion Date:              December 30, 2020
+  Locations:                    BP Koirala Institute of Health Sciences (BPKIHS), Dharān Bāzār, Koshi, Nepal
+
+Study 10:
+  NCT Number:                   NCT04074148
+  Title:                        Effectiveness of Diabetes Prevention Education Program on Diabetes Prevention Among Prediabetes Population in Nepal
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Prediabetic State
+  Interventions:                Behavioral: Diabetes Prevention Education Program|Behavioral: Diabetes Prevention Education brochure
+  Sponsor/Collaborators:        Norwegian University of Science and Technology|Kathmandu University School of Medical Sciences
+  Age:                          18 Years to 64 Years   (Adult)
+  Enrollment:                   480
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   October 25, 2019
+  Completion Date:              June 2020
+  Locations:                    Kathmandu University School of Medical Science, Kathmandu, Nepal
+
+Study 11:
+  NCT Number:                   NCT04059315
+  Title:                        Epidemiology of Oral and Maxillofacial Trauma in Province 2, Nepal
+  Status:                       Enrolling by invitation
+  Study Results:                No Results Available
+  Conditions:                   Oral and Maxillofacial Injuries
+  Interventions:                Other: surgical treatment of facial bone fracture
+  Sponsor/Collaborators:        Tribhuvan University, Nepal
+  Age:                          1 Year to 100 Years   (Child, Adult, Older Adult)
+  Enrollment:                   1030
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   August 15, 2019
+  Completion Date:              June 1, 2021
+  Locations:                    Dr Saroj Prasad Deo, Birgunj, Province 2, Nepal
+
+Study 12:
+  NCT Number:                   NCT04039035
+  Title:                        Preoperative Nutritional Assessment of The Patients Undergoing Major Gastrointestinal Surgery and Their Immediate Postoperative Outcome
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Preoperative Nutritional Status and the Postoperative Outcome
+  Interventions:                
+  Sponsor/Collaborators:        National Academy of Medical Sciences, Nepal
+  Age:                          35 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   134
+  Study Designs:                Observational Model: Case-Only|Time Perspective: Prospective
+  Start Date:                   July 2015
+  Completion Date:              May 2017
+  Locations:                    Department of Surgical Gastroenterology, Kathmandu, Nepal
+
+
+Study 13:
+  NCT Number:                   NCT04015856
+  Title:                        Preventing Early Child Marriage in Nepal
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Child Marriage
+  Interventions:                Behavioral: Full TP intervention|Behavioral: Light TP intervention
+  Sponsor/Collaborators:        Emory University|Cooperative for Assistance and Relief Everywhere, Inc. (CARE)
+  Age:                          12 Years to 16 Years   (Child)
+  Enrollment:                   3094
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   May 2, 2019
+  Completion Date:              December 2022
+  Locations:                    Interdisciplinary Analysts, Kathmandu, Nepal
+
+Study 14:
+  NCT Number:                   NCT03930576
+  Title:                        Consequences of Unwanted Pregnancy in Nepal
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Unwanted Pregnancy
+  Interventions:                Other: Receipt of termination services outside of legal setting
+  Sponsor/Collaborators:        University of California, San Francisco|CREHPA
+  Age:                          15 Years and older   (Child, Adult, Older Adult)
+  Enrollment:                   1436
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   April 16, 2019
+  Completion Date:              June 15, 2024
+  Locations:                    CREHPA, Kathmandu, Nepal
+
+Study 15:
+  NCT Number:                   NCT03926689
+  Title:                        SMS Messages to Increase Child Egg Consumption, a C-rct in Nepal
+  Status:                       Not yet recruiting
+  Study Results:                No Results Available
+  Conditions:                   Dietary Habits
+  Interventions:                Behavioral: SMS messages|Behavioral: Standard SII SBCC
+  Sponsor/Collaborators:        Helen Keller International|University of South Carolina|University College, London|International Food Policy Research Institute|FHI 360|London School of Hygiene and Tropical Medicine|United States Agency for International Development (USAID)|Digital Broadcast Initiative Equal Access
+  Age:                          15 Years and older   (Child, Adult, Older Adult)
+  Enrollment:                   6700
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   August 25, 2019
+  Completion Date:              October 5, 2020
+  Locations:                    Suaahara II/Helen Keller International, Nepal, Patan, Nepal
+ 
+Study 16:
+  NCT Number:                   NCT03917888
+  Title:                        Clinical Impact of Lung Ultrasound Monitoring for Diagnosis of VAP
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Ventilator Associated Pneumonia
+  Interventions:                Diagnostic Test: lung ultrasound
+  Sponsor/Collaborators:        Tribhuvan University Teaching Hospital, Institute Of Medicine.
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   88
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Single (Outcomes Assessor)|Primary Purpose: Diagnostic
+  Start Date:                   September 10, 2017
+  Completion Date:              August 10, 2018
+  Locations:                    Tribhuvan university teaching hospital, Kathmandu, Bagmati, Nepal
+
+Study 17:
+  NCT Number:                   NCT03886467
+  Title:                        Strategies to Increase Milk Consumption by Young Nepali Children
+  Status:                       Enrolling by invitation
+  Study Results:                No Results Available
+  Conditions:                   Child Malnutrition
+  Interventions:                Other: Community-based nutrition education
+  Sponsor/Collaborators:        Tufts University
+  Age:                          6 Months to 66 Months   (Child)
+  Enrollment:                   400
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Health Services Research
+  Start Date:                   November 1, 2019
+  Completion Date:              April 30, 2022
+  Locations:                    Valley Research Group, Kathmandu, Nepal
+
+Study 18:
+  NCT Number:                   NCT03875274
+  Title:                        Morphine Added to Ropivacaine for FICB for Postoperative Analgesia
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Postoperative Pain
+  Interventions:                Drug: Ropivacaine, Morphine|Drug: Ropivacaine, Saline
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   70
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Care Provider, Investigator)|Primary Purpose: Treatment
+  Start Date:                   April 1, 2017
+  Completion Date:              December 31, 2017
+  Locations:                    BPKIHS, Dharān Bāzār, Sunsari, Nepal
+
+Study 19:
+  NCT Number:                   NCT03809702
+  Title:                        Efficacy of Pregabalin for the Treatment of Acute Herpetic Neuralgia
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Herpes Zoster
+  Interventions:                Drug: Pregabalin|Drug: Placebo
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences|University grants commission, Nepal (Funding source)
+  Age:                          18 Years to 70 Years   (Adult, Older Adult)
+  Enrollment:                   41
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   October 4, 2018
+  Completion Date:              September 30, 2019
+  Locations:                    B P Koirala Institute of Health Sciences, Dharān Bāzār, Province 1, Nepal
+
+Study 20:
+  NCT Number:                   NCT03807427
+  Title:                        Regulating Emotions Through Adapted Dialectical Behavior Skills for Youth (READY-Nepal)
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Mental Disorders
+  Interventions:                Behavioral: READY-Nepal
+  Sponsor/Collaborators:        Brandon A Kohrt, MD, PhD|George Washington University
+  Age:                          13 Years to 17 Years   (Child)
+  Enrollment:                   200
+  Study Designs:                Allocation: Non-Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Other
+  Start Date:                   July 1, 2016
+  Completion Date:              June 30, 2018
+  Locations:                    Transcultural Psychosocial Organization, Kathmandu, Nepal
+
+Study 21:
+  NCT Number:                   NCT03758560
+  Title:                        Preoperative Pain Catastrophizing and Its Association With Postoperative Pain After Lower Limb Trauma Surgery
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Pain, Postoperative
+  Interventions:                Other: Pre-operative Nepali version of pain catastrophizing scale (PCS) questionnaire
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   135
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   December 16, 2018
+  Completion Date:              September 3, 2019
+  Locations:                    BP Koirala Institute of Health Sciences (BPKIHS), Dharān Bāzār, Koshi, Nepal
+
+Study 22:
+  NCT Number:                   NCT03747055
+  Title:                        Effectiveness of Group Focused Psychosocial Support for Adults Affected by Humanitarian Crises
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Depression|Posttraumatic Stress Disorder|Alcohol Use Disorder
+  Interventions:                Behavioral: Group problem management plus|Behavioral: Enhanced treatment as usual
+  Sponsor/Collaborators:        George Washington University|World Health Organization|Transcultural Psychosocial Organization Nepal|Duke University|King's College London
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   575
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   November 25, 2018
+  Completion Date:              September 2019
+  Locations:                    Transcultural Psychosocial Organization (TPO) Nepal, Biratnagar, Morang, Nepal
+
+Study 23:
+  NCT Number:                   NCT03668977
+  Title:                        Balanced Protein-Energy Supplement in Pregnancy and Early Lactation on Birth Outcomes and Growth in Southern Nepal
+  Status:                       Enrolling by invitation
+  Study Results:                No Results Available
+  Conditions:                   Pregnancy and Early Lactation Among Women Living in an Area Endemic for Malnutrition
+  Interventions:                Dietary Supplement: Fortified balanced protein-energy.
+  Sponsor/Collaborators:        George Washington University|Harvard University|Johns Hopkins University|University of California, Davis|Bill and Melinda Gates Foundation
+  Age:                          15 Years to 30 Years   (Child, Adult)
+  Enrollment:                   1800
+  Study Designs:                Allocation: Randomized|Intervention Model: Factorial Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   July 16, 2018
+  Completion Date:              June 30, 2022
+  Locations:                    Nepal Nutrition Intervention Project - Sarlahi, Hariaun, Sarlahi District, Nepal
+
+Study 24:
+  NCT Number:                   NCT03630380
+  Title:                        Accuracy of Clinical and Diagnostic Studies for Pneumonia in Children
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Pneumonia
+  Interventions:                Other: Clinical History|Other: Physical Exam Findings|Other: Laboratory Findings|Other: Lung Ultrasound
+  Sponsor/Collaborators:        Patan Academy of Health Sciences
+  Age:                          up to 59 Months   (Child)
+  Enrollment:                   1000
+  Study Designs:                Observational Model: Other|Time Perspective: Prospective
+  Start Date:                   June 1, 2018
+  Completion Date:              July 31, 2020
+  Locations:                    Patan Academy of Health Sciences, Kathmandu, Nepal
+
+Study 25:
+  NCT Number:                   NCT03620513
+  Title:                        Pretreatment to Reduce Pain and Discomfort During Fiberoptic Nasal Pharyngoscopy and Laryngoscopy
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Throat Disorder
+  Interventions:                Drug: Decongestant (oxymetazoline 0.05%)|Drug: Anesthesia (Lidocaine 15%)|Drug: Decongestants and Anesthesia (oxymetazoline and lidocaine)|Drug: Normal saline
+  Sponsor/Collaborators:        Lumbini Medical College
+  Age:                          19 Years and older   (Adult, Older Adult)
+  Enrollment:                   200
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Care Provider, Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   July 1, 2018
+  Completion Date:              October 2018
+  Locations:                    Lumbini Medical College, Tansen, Palpa, Nepal
+
+Study 26:
+  NCT Number:                   NCT03620487
+  Title:                        Detection of Dengue Virus in Plasma of Patients in Nepal
+  Status:                       Enrolling by invitation
+  Study Results:                No Results Available
+  Conditions:                   Dengue Fever
+  Interventions:                
+  Sponsor/Collaborators:        Karius, Inc.|Tribhuvan University, Nepal
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   500
+  Study Designs:                Observational Model: Case-Only|Time Perspective: Prospective
+  Start Date:                   December 21, 2016
+  Completion Date:              September 2020
+  Locations:                    Tribhuvan University, Kirtipur, Nepal
+
+Study 27:
+  NCT Number:                   NCT03603626
+  Title:                        Preemptive Pregabalin in Myringoplasty
+  Status:                       Withdrawn
+  Study Results:                No Results Available
+  Conditions:                   Post-operative Analgesia|CSOM - Chronic Suppurative Otitis Media
+  Interventions:                Drug: Pregabalin 150mg|Drug: Placebo oral capsule
+  Sponsor/Collaborators:        Dhulikhel Hospital|Kathmandu University School of Medical Sciences
+  Age:                          18 Years to 60 Years   (Adult)
+  Enrollment:                   0
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Single (Participant)|Primary Purpose: Treatment
+  Start Date:                   September 2015
+  Completion Date:              December 2017
+  Locations:                    Dhulikhel Hospital, Dhulikhel, Kavre, Nepal
+
+Study 28:
+  NCT Number:                   NCT03602287
+  Title:                        Effect of 2% Lignocaine Solution in Pain During Removal of Nasal Pack
+  Status:                       Withdrawn
+  Study Results:                No Results Available
+  Conditions:                   Nasal Pack Removal
+  Interventions:                Drug: Lignocaine 2% Injection 20Ml Vial (Product)|Drug: Normal saline
+  Sponsor/Collaborators:        Dhulikhel Hospital
+  Age:                          18 Years to 50 Years   (Adult)
+  Enrollment:                   0
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Single (Participant)|Primary Purpose: Supportive Care
+  Start Date:                   July 1, 2017
+  Completion Date:              August 1, 2018
+  Locations:                    Dhulikhel Hospital, Dhulikhel, Kavre, Nepal
+
+Study 29:
+  NCT Number:                   NCT03590912
+  Title:                        Efficacy and Cost Analysis of Steroid Spray in Treatment of Otitis Media With Effusion
+  Status:                       Not yet recruiting
+  Study Results:                No Results Available
+  Conditions:                   Otitis Media With Effusion
+  Interventions:                Drug: Fluticasone Nasal|Drug: Anti Histamine plus Nasal decongestents|Drug: Steroid Drug
+  Sponsor/Collaborators:        Lumbini Medical College
+  Age:                          2 Years to 10 Years   (Child)
+  Enrollment:                   200
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   August 2018
+  Completion Date:              September 2019
+  Locations:                    Lumbini Medical College, Tansen, Palpa, Nepal
+
+Study 30:
+  NCT Number:                   NCT03580889
+  Title:                        Atropine Versus Glycopyrrolate in Preventing Spinal Anesthesia Induced Hypotension in Lower Limb Surgeries
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Lower Extremity Fracture
+  Interventions:                Drug: Atropine|Drug: Glycopyrrolate|Drug: Normal Saline Flush, 0.9% Injectable Solution
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          16 Years to 65 Years   (Child, Adult, Older Adult)
+  Enrollment:                   138
+  Study Designs:                Allocation: Randomized|Intervention Model: Factorial Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   September 15, 2017
+  Completion Date:              September 2018
+  Locations:                    Dr. BishnuPokharel, Dharān Bāzār, Sunsari, Nepal
+
+Study 31:
+  NCT Number:                   NCT03563196
+  Title:                        Diagnosis Of Pulmonary Complications After Cardiac Surgery In Children
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Children|Cardiac Surgery|Ultrasound
+  Interventions:                Radiation: Chest Radiograph|Diagnostic Test: Lung Ultrasound
+  Sponsor/Collaborators:        Shahid Gangalal National Heart Centre
+  Age:                          6 Months to 14 Years   (Child)
+  Enrollment:                   141
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   September 2016
+  Completion Date:              April 2017
+  Locations:                    Shahid Gangalal National Heart Center, Kathmandu, Nepal
+
+Study 32:
+  NCT Number:                   NCT03535025
+  Title:                        Postoperative Quality of Recovery in Patients Receiving Anaesthesia
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Elective Surgeries
+  Interventions:                
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   195
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   January 2, 2018
+  Completion Date:              November 30, 2018
+  Locations:                    BPKIHS, Dharān Bāzār, Sunsari, Nepal
+ 
+
+Study 33:
+  NCT Number:                   NCT03479320
+  Title:                        Usefulness of Lidocaine in Oral and Maxillofacial Surgeries Under General Anesthesia for Pain Control After Operation
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Pain, Postoperative
+  Interventions:                Drug: Lidocaine|Drug: Placebo
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 60 Years   (Adult)
+  Enrollment:                   40
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Investigator)|Primary Purpose: Treatment
+  Start Date:                   March 28, 2018
+  Completion Date:              March 27, 2019
+  Locations:                    B. P. Koirala Institute of Health Sciences, Dharān Bāzār, Nepal
+
+Study 34:
+  NCT Number:                   NCT03476694
+  Title:                        Ultrasound Guided Supraclavicular Brachial Plexus Block, Volume Comparison of Local Anaesthetics and Diaphragmatic Motility.
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Sucessful Block With Less Hemidiaphragmatic Paresis in Distal Upper Arm Fracture
+  Interventions:                Procedure: ultra sound guided supraclavicular brachial plexus block
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 60 Years   (Adult)
+  Enrollment:                   60
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Investigator)|Primary Purpose: Treatment
+  Start Date:                   July 1, 2018
+  Completion Date:              February 1, 2019
+  Locations:                    B P Koirala Institute of Health science (BPKIHS), Dharān Bāzār, Koshi Zone, Nepal
+
+Study 35:
+  NCT Number:                   NCT03451695
+  Title:                        Effect of Intrathecal Morphine on Chronic Pain After Elective Caesarean Section
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Chronic Pain Post-Procedural
+  Interventions:                Drug: Morphine|Drug: Placebo
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 40 Years   (Adult)
+  Enrollment:                   283
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Investigator, Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   April 1, 2018
+  Completion Date:              June 2020
+  Locations:                    BP Koirala Institute of Health Sciences (BPKIHS), Dharān Bāzār, Koshi, Nepal
+
+Study 36:
+  NCT Number:                   NCT03450499
+  Title:                        Analgesia Effects of Intravenous Ketamine After Spinal Anesthesia for Non-elective Cesarean Section
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Non Elective Cesarean Section and Ketamine Analgesia
+  Interventions:                Drug: Ketamine|Drug: Placebo
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 35 Years   (Adult)
+  Enrollment:                   80
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Investigator)|Primary Purpose: Treatment
+  Start Date:                   April 1, 2018
+  Completion Date:              March 7, 2019
+  Locations:                    BP Koirala Institute of Health Sciences (BPKIHS), Dharān Bāzār, Koshi, Nepal
+
+Study 37:
+  NCT Number:                   NCT03447340
+  Title:                        Nepal Pioneer Worksite Intervention Study
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Dietary Modification|Diabetes|Hypertension|Health Behavior
+  Interventions:                Behavioral: Canteen and Behavior intervention|Other: Canteen Only
+  Sponsor/Collaborators:        Harvard School of Public Health
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   363
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   November 9, 2016
+  Completion Date:              December 2020
+  Locations:                    Dhulikhel Hospital, Dhulikhel, Nepal
+
+Study 38:
+  NCT Number:                   NCT03427502
+  Title:                        Anterior Ethmoidal Nerve Block in Prevention of Postoperative Agitation
+  Status:                       Not yet recruiting
+  Study Results:                No Results Available
+  Conditions:                   Postoperative Agitation: Impaired Awareness, Abnormal Cognitive Function, Confusion, and Verbal and Physical Agitation During Recovery From General Anesthesia|Deviated Nasal Septum|Chronic Rhinosinusitis (Diagnosis)|Nasal Polyps
+  Interventions:                Drug: Bupivacaine-epinephrine|Drug: normal saline
+  Sponsor/Collaborators:        Lumbini Medical College
+  Age:                          Child, Adult, Older Adult
+  Enrollment:                   100
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   September 1, 2018
+  Completion Date:              April 2020
+  Locations:                    Lumbini Medical College, Tansen, Palpa, Nepal
+
+Study 39:
+  NCT Number:                   NCT03387228
+  Title:                        Pain Education for Patients With Low Back Pain in Nepal: A Feasibility Study
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Low Back Pain, Mechanical
+  Interventions:                Other: Pain education|Other: Control group
+  Sponsor/Collaborators:        Kathmandu University School of Medical Sciences|University of Otago|University of Washington|University of South Australia
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   40
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Single (Outcomes Assessor)|Primary Purpose: Other
+  Start Date:                   February 16, 2018
+  Completion Date:              April 30, 2018
+  Locations:                    Sahara Physiotherapy Hospital, Kathmandu, Nepal
+
+Study 40:
+  NCT Number:                   NCT03367130
+  Title:                        Improving Clinic Attendance for Medication Collection Among HIV Positive Individuals in Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   HIV Infections|Antiretroviral Therapy|HIV Seropositivity
+  Interventions:                Behavioral: Mobile phone reminder
+  Sponsor/Collaborators:        Tokyo University|Asian Development Bank Japan Scholarship Program|Open Society Institute
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   468
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Outcomes Assessor)|Primary Purpose: Health Services Research
+  Start Date:                   October 14, 2017
+  Completion Date:              June 30, 2018
+  Locations:                    Seti Zonal Hospital, Dhangadi, State 7., Nepal
+
+Study 41:
+  NCT Number:                   NCT03359486
+  Title:                        Pilot Feasibility Study of Psychosocial Support to Improve Well-being of Adults in Humanitarian Crises in Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Depression
+  Interventions:                Behavioral: Group problem management plus|Behavioral: Enhanced treatment as usual
+  Sponsor/Collaborators:        George Washington University|World Health Organization|Transcultural Psychosocial Organization Nepal|Duke University|King's College London
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   120
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   December 17, 2017
+  Completion Date:              July 31, 2018
+  Locations:                    Transcultural Psychosocial Organization (TPO) Nepal, Kamalamai, Sindhuli, Nepal
+
+Study 42:
+  NCT Number:                   NCT03349736
+  Title:                        Pelvic Floor Muscle Training Programme in Pregnant Nepalese Women- a Feasibility Study
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Pelvic Organ Prolapse|Urinary Incontinence
+  Interventions:                Other: Pelvic Floor Muscle Training
+  Sponsor/Collaborators:        Kathmandu University School of Medical Sciences|University of Oslo
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   253
+  Study Designs:                Intervention Model: Single Group Assignment|Masking: None (Open Label)|Primary Purpose: Other
+  Start Date:                   June 25, 2017
+  Completion Date:              April 30, 2018
+  Locations:                    Kathmandu University Dhulikhel Hospital, Kavre, Kathmandu, Nepal
+
+Study 43:
+  NCT Number:                   NCT03304158
+  Title:                        Community Based Management of Diabetes in Nepal
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Type 2 Diabetes Mellitus
+  Interventions:                Behavioral: FCHV visit
+  Sponsor/Collaborators:        University of Aarhus
+  Age:                          25 Years to 64 Years   (Adult)
+  Enrollment:                   224
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   June 1, 2017
+  Completion Date:              October 2018
+  Locations:                    A semi-urban area of Pokhara-Lekhnath Metropolitan City of Nepal, Pokhara, Nepal
+
+Study 44:
+  NCT Number:                   NCT03285399
+  Title:                        Bhaktapur Maternal and Child Micronutrient Study
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Malnutrition, Infant|Malnutrition; Anemia
+  Interventions:                
+  Sponsor/Collaborators:        Centre For International Health|Tribhuvan University, Nepal|Harvard School of Public Health|Oslo and Akershus University of Applied Sciences
+  Age:                          2 Months to 11 Months   (Child)
+  Enrollment:                   1000
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   January 12, 2008
+  Completion Date:              February 28, 2014
+  Locations:                    Siddhi Memorial Hospital (SMH),Bhelukhel, Bhimsensthan, Bhaktapur, Nepal
+
+Study 45:
+  NCT Number:                   NCT03278587
+  Title:                        Village-Integrated Eye Worker Trial II - Pilot
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Cataract|Glaucoma|Age Related Macular Degeneration|Diabetic Retinopathy|Refractive Errors
+  Interventions:                Other: Community-based screening program|Other: Cataract camp program|Other: Community health worker program
+  Sponsor/Collaborators:        Francis I. Proctor Foundation|Seva Foundation|Bharatpur Eye Hospital
+  Age:                          50 Years and older   (Adult, Older Adult)
+  Enrollment:                   15000
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Single (Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   May 31, 2018
+  Completion Date:              April 2020
+  Locations:                    Bharatpur Eye Hospital, Bharatpur, Chitwan, Nepal
+
+Study 46:
+  NCT Number:                   NCT03275935
+  Title:                        Evaluation of Inhalation Technique in Patients With COPD, Asthma or ACOS Using a Dry Powder Device (DPI)
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   COPD Asthma|Asthma-COPD Overlap Syndrome|Inhalation
+  Interventions:                
+  Sponsor/Collaborators:        Kathmandu University School of Medical Sciences
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   307
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   March 1, 2017
+  Completion Date:              June 30, 2017
+  Locations:                    Dhulikhel Hospital- Kathmandu University Hospital, Dhulikhel, Nepal
+
+Study 47:
+  NCT Number:                   NCT03071666
+  Title:                        Vitamin B12 Supplementation During Pregnancy on Cognitive Development
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Pregnancy Related|Vitamin B 12 Deficiency|Anemia
+  Interventions:                Dietary Supplement: cobalamin|Dietary Supplement: placebo
+  Sponsor/Collaborators:        Centre For International Health|Tribhuvan University Teaching Hospital, Institute Of Medicine.|NORCE Norwegian Research Centre AS|Sykehuset Innlandet HF
+  Age:                          20 Years to 40 Years   (Adult)
+  Enrollment:                   600
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   March 27, 2017
+  Completion Date:              December 31, 2021
+  Locations:                    Manjeswori Ulak, Bhaktapur, Nepal
+
+Study 48:
+  NCT Number:                   NCT03000517
+  Title:                        PK of Levofloxacin in MDR-TB Patients
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Multi-drug Resistant Tuberculosis
+  Interventions:                
+  Sponsor/Collaborators:        University Medical Center Groningen
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   20
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   May 4, 2016
+  Completion Date:              January 24, 2018
+  Locations:                    German Nepal Tuberculosis Project Clinic (GENETUP), Kalimati, Kathmandu, Nepal
+
+Study 49:
+  NCT Number:                   NCT02981251
+  Title:                        Community Based Health Education to Manage Uncontrolled Blood Pressure in Surkhet, Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Hypertension
+  Interventions:                Behavioral: Health education with support by trained female health volunteer
+  Sponsor/Collaborators:        Bheri Zonal Ayurveda Hospital
+  Age:                          30 Years and older   (Adult, Older Adult)
+  Enrollment:                   142
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   January 2016
+  Completion Date:              August 2017
+  Locations:                    Bheri Zonal Ayurveda Hospital, Surkhet, Birendranagar Municipality, Nepal
+
+Study 50:
+  NCT Number:                   NCT02802332
+  Title:                        Use of a Foot Length Card to Improve Careseeking Practices of Vulnerable Newborns in Sarlahi District, Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Low Birth Weight Babies|Preterm Babies
+  Interventions:                Behavioral: Footlength Card
+  Sponsor/Collaborators:        Johns Hopkins Bloomberg School of Public Health|Save the Children
+  Age:                          15 Years and older   (Child, Adult, Older Adult)
+  Enrollment:                   4574
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Other
+  Start Date:                   July 2016
+  Completion Date:              January 2017
+  Locations:                    Nepal Nutrition Intervention Project, Hariaun, Sarlahi District, Nepal
+ 
+
+Study 51:
+  NCT Number:                   NCT02793271
+  Title:                        Reducing Stigma Among Healthcare Providers to Improve Mental Health Services
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Mental Disorders
+  Interventions:                Behavioral: RESHAPE|Behavioral: PRIME/mhGAP
+  Sponsor/Collaborators:        Brandon A Kohrt, MD, PhD|National Institute of Mental Health (NIMH)|Department for International Development, United Kingdom|George Washington University
+  Age:                          21 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   301
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Care Provider, Outcomes Assessor)|Primary Purpose: Other
+  Start Date:                   February 1, 2016
+  Completion Date:              August 31, 2018
+  Locations:                    Transcultural Psychosocial Organization (TPO) Nepal, Bharatpur, Chitwan, Nepal
+ 
+Study 52:
+  NCT Number:                   NCT02788786
+  Title:                        Feasibility and Acceptability of Use of Daily Oral Rinse in Pregnant Women in Rural Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Periodontitis|Premature Birth of Newborn
+  Interventions:                Drug: Chlorhexidine|Drug: Cetylpyridinium chloride|Drug: Salt and Water
+  Sponsor/Collaborators:        Johns Hopkins Bloomberg School of Public Health|Bill and Melinda Gates Foundation
+  Age:                          15 Years and older   (Child, Adult, Older Adult)
+  Enrollment:                   175
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Treatment
+  Start Date:                   June 27, 2016
+  Completion Date:              November 15, 2016
+  Locations:                    Nepal Nutrition Intervention Project, Hariaun, Sarlahi District, Nepal
+
+Study 53:
+  NCT Number:                   NCT02787018
+  Title:                        Dexamethasone Compared With Dexmedetomidine as an Adjuvant to Ropivacaine for Supraclavicular Brachial Plexus Block
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Brachial Plexus Block
+  Interventions:                Drug: Ropivacaine and Normal saline|Drug: Ropivacaine and Dexamethasone|Drug: Ropivacaine and Dexmedetomidine
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   120
+  Study Designs:                Allocation: Randomized|Intervention Model: Factorial Assignment|Masking: Triple (Participant, Investigator, Outcomes Assessor)|Primary Purpose: Supportive Care
+  Start Date:                   June 2016
+  Completion Date:              September 2018
+  Locations:                    B. P. Koirala Institute of Health Sciences, Dharān Bāzār, Koshi, Nepal
+
+Study 54:
+  NCT Number:                   NCT02727517
+  Title:                        Early or Late Cord Clamping in the Depressed Neonate
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Neonatal Disorder|Asphyxia Neonatorum
+  Interventions:                Procedure: Early (≤ 60 seconds) cord clamping|Procedure: Delayed (≥ 180 seconds) cord clamping
+  Sponsor/Collaborators:        Uppsala University|UNICEF|Ministry of Health and Population, Nepal|Swedish Society for Medical Research
+  Age:                          33 Weeks to 42 Weeks   (Child)
+  Enrollment:                   90
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Investigator, Outcomes Assessor)|Primary Purpose: Basic Science
+  Start Date:                   April 2016
+  Completion Date:              September 2016
+  Locations:                    Paropakar Maternity and Women's Hospital, Kathmandu, Nepal
+
+Study 55:
+  NCT Number:                   NCT02721524
+  Title:                        Ring Versus Suture Annuloplasty For Functional Tricuspid Regurgitation In Rheumatic Mitral Valve Diseases
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Functional Tricuspid Regurgitation
+  Interventions:                Procedure: Tricuspid Annuloplasty
+  Sponsor/Collaborators:        Shahid Gangalal National Heart Centre
+  Age:                          14 Years to 75 Years   (Child, Adult, Older Adult)
+  Enrollment:                   86
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Treatment
+  Start Date:                   November 2015
+  Completion Date:              September 2016
+  Locations:                    Shahid Gangalal National Heart Centre, Kathmandu, Bagmati, Nepal
+
+Study 56:
+  NCT Number:                   NCT02687126
+  Title:                        Ultrasound Guided Technique for Internal Jugular Central Venous Catheterization in Pediatric Cardiac Surgical Patients
+  Status:                       Completed
+  Study Results:                Has Results
+  Conditions:                   Accidental Puncture of Artery During Catheter Insertion
+  Interventions:                Device: Central Venous Catheterization
+  Sponsor/Collaborators:        Shahid Gangalal National Heart Centre
+  Age:                          up to 15 Years   (Child)
+  Enrollment:                   106
+  Study Designs:                Intervention Model: Single Group Assignment|Masking: None (Open Label)|Primary Purpose: Supportive Care
+  Start Date:                   February 2016
+  Completion Date:              November 2016
+  Locations:                    Shahid Gangalal NationalHeart Centre, Kathmandu, Bagmati, Nepal
+
+Study 57:
+  NCT Number:                   NCT02672982
+  Title:                        Follow Up of Severely Malnourished Children (FUSAM)
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Severe Malnutrition
+  Interventions:                Other: NUTPSY treatment|Other: NUT treatment
+  Sponsor/Collaborators:        Action Contre la Faim|International Centre for Diarrhoeal Disease Research, Bangladesh
+  Age:                          6 Months to 23 Months   (Child)
+  Enrollment:                   427
+  Study Designs:                Allocation: Randomized|Intervention Model: Factorial Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   December 8, 2014
+  Completion Date:              January 31, 2017
+  Locations:                    ACF, Nepal, Kathmandu, Nepal
+
+Study 58:
+  NCT Number:                   NCT02672813
+  Title:                        Ultrasound Guided Pectoral Nerve I and II Blocks in Multimodal Analgesia for Breast Surgery
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Pain, Postoperative
+  Interventions:                Procedure: Pectoral nerve I and II block
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          16 Years to 65 Years   (Child, Adult, Older Adult)
+  Enrollment:                   32
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Single (Participant)|Primary Purpose: Treatment
+  Start Date:                   July 2015
+  Completion Date:              September 2016
+  Locations:                    BP Koirala Institute of Health Sciences, Dharan, Sunsari, Nepal
+
+Study 59:
+  NCT Number:                   NCT02618525
+  Title:                        Supraorbital Pressure Versus Jaw Thrust for Assessing the Adequate Depth of Anesthesia for LMA Insertion in Children
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Laryngeal Masks
+  Interventions:                Other: Supraorbital pressure|Other: Jaw thrust maneuver
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          2 Years to 10 Years   (Child)
+  Enrollment:                   50
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Single (Participant)|Primary Purpose: Other
+  Start Date:                   February 2016
+  Completion Date:              September 2017
+  Locations:                    B. P. Koirala Institute Of Health Sciences, Dharan, Nepal
+
+
+Study 60:
+  NCT Number:                   NCT02601651
+  Title:                        Effect of Perioperative Intravenous Lidocaine on Opioid Consumption and Pain After Laparoscopic Totally Extraperitoneal Inguinal Hernioplasty
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Pain, Postoperative
+  Interventions:                Drug: Lidocaine|Drug: Normal saline
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   64
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Investigator, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   December 2015
+  Completion Date:              March 2017
+  Locations:                    BP Koirala institute of health sciences, Dharan, Sunsari, Nepal
+ 
+Study 61:
+  NCT Number:                   NCT02598765
+  Title:                        Micro vs. Standard Trabeculectomy Study
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Glaucoma
+  Interventions:                Procedure: Standard Trabeculectomy|Procedure: Microtrabeculectomy
+  Sponsor/Collaborators:        Francis I. Proctor Foundation|Seva Foundation|Lumbini Eye Institute and Hospital
+  Age:                          40 Years and older   (Adult, Older Adult)
+  Enrollment:                   240
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   March 2016
+  Completion Date:              March 2019
+  Locations:                    Lumbini Eye Institute, Nepal, Siddharthanagar, Nepal
+
+
+Study 62:
+  NCT Number:                   NCT02598024
+  Title:                        Treating Earthquake in Nepal Trauma (TENT) Trial 2016
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Post-traumatic Stress Disorder (PTSD)
+  Interventions:                Behavioral: Narrative Exposure Therapy|Behavioral: Control Focused Behavioural Treatment
+  Sponsor/Collaborators:        Nepalese Psychological Association
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   240
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Single (Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   March 2016
+  Completion Date:              October 2016
+  Locations:                    Nepalese Psychological Association, Kirtipur, Kathmandu, Nepal
+
+Study 63:
+  NCT Number:                   NCT02575170
+  Title:                        Amino Acid Infusion in Mothers Before and During Cesarean Delivery
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Hypothermia
+  Interventions:                Drug: Amino acid solution|Drug: Ringer's lactate solution
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          Child, Adult, Older Adult
+  Enrollment:                   76
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Investigator, Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   June 2013
+  Completion Date:              April 2016
+  Locations:                    B P Koirala Institute of Health Sciences, Dharan, Koshi, Nepal
+
+Study 64:
+  NCT Number:                   NCT02428075
+  Title:                        Community-based Management of Hypertension in Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Hypertension
+  Interventions:                Behavioral: FCHV visit
+  Sponsor/Collaborators:        University of Aarhus
+  Age:                          25 Years to 64 Years   (Adult)
+  Enrollment:                   1638
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   November 2015
+  Completion Date:              February 2017
+  Locations:                    Lekhnath Municipality, Kaski, Gandaki, Nepal
+
+Study 65:
+  NCT Number:                   NCT02330887
+  Title:                        Group Antenatal Care: The Power of Peers for Increasing Skilled Birth Attendance in Achham, Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Prenatal Care
+  Interventions:                Other: Group Antenatal Care|Other: Individual Antenatal Care
+  Sponsor/Collaborators:        Possible|Brigham and Women's Hospital
+  Age:                          15 Years to 49 Years   (Child, Adult)
+  Enrollment:                   2184
+  Study Designs:                Allocation: Non-Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Health Services Research
+  Start Date:                   August 1, 2014
+  Completion Date:              July 10, 2016
+  Locations:                    Bayalpata Hospital, Bayaplata, Achham, Nepal
+
+Study 66:
+  NCT Number:                   NCT02327923
+  Title:                        Intraoperative Lidocaine Infusion vs. Esmolol Infusion for Postoperative Analgesia in Laparoscopic Cholecystectomy
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Gall Stone Disease
+  Interventions:                Drug: Lidocaine|Drug: Esmolol|Drug: Paracetamol|Drug: Propofol|Drug: Fentanyl|Drug: Vecuronium|Drug: Atropine|Drug: Ephedrine|Drug: Morphine|Drug: Ketorolac|Drug: Ondansetron|Drug: Bupivacaine|Drug: Tramadol|Drug: Neostigmine|Drug: Glycopyrrolate
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 60 Years   (Adult)
+  Enrollment:                   90
+  Study Designs:                Allocation: Randomized|Intervention Model: Single Group Assignment|Masking: Triple (Participant, Investigator, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   January 2015
+  Completion Date:              April 2016
+  Locations:                    BP Koirala Institute of Health Sciences, Dharan, Sunsari District, Nepal
+
+Study 67:
+  NCT Number:                   NCT02316041
+  Title:                        Clinical Trial of the Femtosecond Laser System VisuMax for Refractive Correction of Hyperopia by Means of Lenticule Extraction
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Hyperopia
+  Interventions:                Procedure: Small incision lenticule extraction|Device: ReLEx® (SMILE)
+  Sponsor/Collaborators:        Tilganga Institute of Ophthalmology|London Vision Clinic
+  Age:                          21 Years and older   (Adult, Older Adult)
+  Enrollment:                   220
+  Study Designs:                Intervention Model: Single Group Assignment|Masking: None (Open Label)|Primary Purpose: Treatment
+  Start Date:                   January 2014
+  Completion Date:              
+  Locations:                    Tilganga Institute of Ophthalmology, Refractive Surgery Unit, Kathmandu, Nepal
+
+Study 68:
+  NCT Number:                   NCT02272842
+  Title:                        Vitamin B12, Neurodevelopment and Growth in Nepal
+  Status:                       Active, not recruiting
+  Study Results:                No Results Available
+  Conditions:                   Development|Vitamin Deficiency|Malnutrition
+  Interventions:                Dietary Supplement: Vitamin B12
+  Sponsor/Collaborators:        Centre For International Health|Tribhuvan University, Nepal|Uni Health, Uni Research, Norway
+  Age:                          6 Months to 11 Months   (Child)
+  Enrollment:                   600
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   April 20, 2015
+  Completion Date:              February 28, 2020
+  Locations:                    Siddhi Memorial Hospital (SMH),Bhelukhel, Bhimsensthan, Bhaktapur, Nepal
+ 
+Study 69:
+  NCT Number:                   NCT02244437
+  Title:                        Ibuprofen vs Acetaminophen for AMS Prevention
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Acute Mountain Sickness, Blood Oxygen Saturation, Headache
+  Interventions:                Drug: Ibuprofen|Drug: Acetaminophen
+  Sponsor/Collaborators:        Mountain Medicine Society of Nepal
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   288
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Investigator)|Primary Purpose: Prevention
+  Start Date:                   October 2014
+  Completion Date:              December 2015
+  Locations:                    Buddha Basnyat, MD, Kathmandu, Nepal
+  URL:                          https://ClinicalTrials.gov/show/NCT02244437
+
+Study 70:
+  NCT Number:                   NCT02224040
+  Title:                        Typhoid Fever: Combined vs. Single Antibiotic Therapy
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Typhoid Fever
+  Interventions:                Drug: ceftriaxone|Drug: ceftriaxone and azithromycin|Drug: azithromycin|Drug: azithromycin and cefixime
+  Sponsor/Collaborators:        Sheba Medical Center
+  Age:                          2 Years to 80 Years   (Child, Adult, Older Adult)
+  Enrollment:                   120
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Treatment
+  Start Date:                   August 2013
+  Completion Date:              August 2015
+  Locations:                    Dhulikhel hospital, Dhulikhel, Nepal
+
+Study 71:
+  NCT Number:                   NCT02222805
+  Title:                        Effect of Timing of Umbilical Cord Clamping on Anaemia at 8 and 12 Months and Later Neurodevelopment
+  Status:                       Active, not recruiting
+  Study Results:                No Results Available
+  Conditions:                   Anemia|Iron Deficiency|Neonatal Jaundice
+  Interventions:                Procedure: Early (≤30 seconds) cord clamping|Procedure: Delayed (≤180 seconds) cord clamping
+  Sponsor/Collaborators:        Uppsala University|UNICEF|Ministry of Health and Population, Nepal|The Swedish Society of Medicine
+  Age:                          34 Weeks to 41 Weeks   (Child)
+  Enrollment:                   540
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Investigator, Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   October 2014
+  Completion Date:              December 2020
+  Locations:                    Paropakar Maternity and Women's Hospital, Kathmandu, Nepal
+
+Study 72:
+  NCT Number:                   NCT02176057
+  Title:                        Nepal Elimination of Trachoma Study
+  Status:                       Withdrawn
+  Study Results:                No Results Available
+  Conditions:                   Trachoma
+  Interventions:                Drug: Azithromycin
+  Sponsor/Collaborators:        University of California, San Francisco|National Eye Institute (NEI)
+  Age:                          1 Year to 9 Years   (Child)
+  Enrollment:                   0
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Care Provider)|Primary Purpose: Treatment
+  Start Date:                   August 2014
+  Completion Date:              
+  Locations:                    Geta Eye Hospital, Geta, Kailali, Nepal
+
+Study 73:
+  NCT Number:                   NCT02137317
+  Title:                        Farming, Personal Protective Equipment, Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Organophosphate Poisoning
+  Interventions:                Device: LAPPE (locally adapted personal protective equipment)
+  Sponsor/Collaborators:        Bispebjerg Hospital|University of Copenhagen|Odense University Hospital|Dialogos|Nepal Development Society|Nepal Public Health Foundation|Nepal Red Cross Society|Dansk Selskab for Arbejds- og Miljømedicin|The Augustinus Foundation, Denmark.|Else og Mogens Wedell Wedellsborgs Foundation|Syngenta|BASF
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   45
+  Study Designs:                Allocation: Randomized|Intervention Model: Crossover Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   August 2014
+  Completion Date:              February 2015
+  Locations:                    FAPPEN - Field, Bharatpur, Chitwan, Nepal
+
+Study 74:
+  NCT Number:                   NCT01990781
+  Title:                        Effect of Intravenous Lidocaine and Dexamethasone Combination on Postoperative Sore Throat, Cough and Hoarseness.
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Postoperative Sore Throat, Cough, Hoarseness
+  Interventions:                Drug: LD: Lidocaine and dexamethasone|Drug: L:Lidocaine|Drug: D: Dexamethasone|Drug: N: Normal saline (placebo)
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   180
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Care Provider, Investigator)|Primary Purpose: Treatment
+  Start Date:                   December 2013
+  Completion Date:              January 2016
+  Locations:                    BP Koirala Institute of Health Sciences (BPKIHS), Dharan, Koshi, Nepal
+
+Study 75:
+  NCT Number:                   NCT01969786
+  Title:                        Village Integrated Eye Workers Trial
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Corneal Ulcer
+  Interventions:                Other: Corneal ulcer prevention program
+  Sponsor/Collaborators:        University of California, San Francisco|National Eye Institute (NEI)|Seva Foundation|Bharatpur Eye Hospital
+  Age:                          Child, Adult, Older Adult
+  Enrollment:                   275000
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Single (Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   February 2014
+  Completion Date:              December 2020
+  Locations:                    Bharatpur Eye Hospital - Seva Foundation, Bharatpur, Nepal
+
+Study 76:
+  NCT Number:                   NCT01842906
+  Title:                        Study Looking at End Expiratory Pressure for Altitude Illness Decrease (SLEEP-AID)
+  Status:                       Completed
+  Study Results:                Has Results
+  Conditions:                   Acute Mountain Sickness
+  Interventions:                Device: Theravent|Device: Control
+  Sponsor/Collaborators:        Stanford University|University of Utah
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   219
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Investigator, Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   October 2013
+  Completion Date:              October 2014
+  Locations:                    Nepal, Pheriche & Dingboche, Khumbu, Nepal
+
+Study 77:
+  NCT Number:                   NCT01655641
+  Title:                        Study of Tranexamic Acid for Reducing Blood Requirement in Patients Undergoing Major Gastro-intestinal Surgery
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Gastric Cancer|Pancreatic Cancer|Hepatocellular Cancer|Colon Cancer
+  Interventions:                Drug: Tranexamic acid|Other: Standard of care
+  Sponsor/Collaborators:        Tribhuvan University Teaching Hospital, Institute Of Medicine.|Pfizer
+  Age:                          16 Years and older   (Child, Adult, Older Adult)
+  Enrollment:                   118
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Investigator, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   July 2012
+  Completion Date:              July 2014
+  Locations:                    Tribhuvan University Teaching Hospital, Kathmandu, Kathmandy, Nepal
+
+Study 78:
+  NCT Number:                   NCT01559636
+  Title:                        Diarrhea and Bivalent Oral Polio Vaccine Immunity
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Seroimmunity|Diarrhea|Polio
+  Interventions:                Biological: bivalent oral polio vaccine
+  Sponsor/Collaborators:        Centers for Disease Control and Prevention|Tribhuvan University, Nepal
+  Age:                          6 Weeks to 11 Months   (Child)
+  Enrollment:                   699
+  Study Designs:                Allocation: Non-Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Diagnostic
+  Start Date:                   August 2012
+  Completion Date:              October 2013
+  Locations:                    Institute of Medicine, Kathmandu, Nepal
+
+Study 79:
+  NCT Number:                   NCT01550068
+  Title:                        Rheumatic Heart Disease School Project
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Rheumatic Heart Disease
+  Interventions:                Diagnostic Test: Echocardiography
+  Sponsor/Collaborators:        University Hospital Inselspital, Berne|B.P. Koirala Institute of Health Sciences
+  Age:                          5 Years to 16 Years   (Child)
+  Enrollment:                   8519
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Screening
+  Start Date:                   December 2012
+  Completion Date:              April 30, 2019
+  Locations:                    Department of Internal Medicine and Cardiology, B.P. Koirala Institute Of Health Sciences (bpkihs), Dharan, Nepal
+
+Study 80:
+  NCT Number:                   NCT01542697
+  Title:                        Effect of Intraperitoneal Nebulisation of Magnesium Sulphate for Analgesia Following Laparoscopic Cholecystectomy
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Postoperative Pain
+  Interventions:                Drug: intraperitoneal nebulisation of magnesium sulphate
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   60
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Care Provider, Investigator)|Primary Purpose: Treatment
+  Start Date:                   June 2011
+  Completion Date:              June 2012
+  Locations:                    routine operation theatre of BPKoirala, Dharan, Nepal
+
+Study 81:
+  NCT Number:                   NCT01522326
+  Title:                        Comparison of Metoclopramide and Ibuprofen for the Treatment of Acute Mountain Sickness
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Acute Mountain Sickness|High Altitude Headache
+  Interventions:                Drug: Ibuprofen|Drug: Metoclopramide
+  Sponsor/Collaborators:        Massachusetts General Hospital
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   300
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Care Provider, Investigator)|Primary Purpose: Treatment
+  Start Date:                   March 2012
+  Completion Date:              March 2017
+  Locations:                    Manang Clinic of the Himalayan Rescue Association, Manang, District of Manang, Nepal
+
+Study 82:
+  NCT Number:                   NCT01519544
+  Title:                        Comparison of Temazepam and Acetazolamide to Treat Difficulty Sleeping at High Altitude
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   High-altitude Sleep Disturbance
+  Interventions:                Drug: Temazepam|Drug: Acetazolamide
+  Sponsor/Collaborators:        Massachusetts General Hospital
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   34
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Care Provider, Investigator)|Primary Purpose: Treatment
+  Start Date:                   March 2012
+  Completion Date:              March 2015
+  Locations:                    Himalayan Rescue Location clinic in Manang, Manang, District of Manang, Nepal
+
+Study 83:
+  NCT Number:                   NCT01488305
+  Title:                        Action Against Malnutrition Through Agriculture (AAMA) Plus MNP Study
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Anemia
+  Interventions:                Dietary Supplement: MNP (micro-nutrient powders)|Other: AAMA project activities (HFP and IYCF BCC)
+  Sponsor/Collaborators:        Helen Keller International|University of California, Davis
+  Age:                          6 Months to 23 Months   (Child)
+  Enrollment:                   334
+  Study Designs:                Allocation: Randomized|Intervention Model: Factorial Assignment|Masking: None (Open Label)|Primary Purpose: Other
+  Start Date:                   October 2010
+  Completion Date:              June 2012
+  Locations:                    Helen Keller International, Nepal, Baitadi, Nepal
+
+Study 84:
+  NCT Number:                   NCT01418157
+  Title:                        A Trial of Acetazolamide Versus Placebo in Preventing Mountain Sickness During Rapid Ascent
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Acute Mountain Sickness
+  Interventions:                Drug: Acetazolamide|Drug: Placebo
+  Sponsor/Collaborators:        Oxford University Clinical Research Unit, Vietnam|University of Oxford|Wellcome Trust|Mountain Medicine Society of Nepal
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   380
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Investigator)
+  Start Date:                   August 2011
+  Completion Date:              October 2011
+  Locations:                    Oxford University Clinical Research Unit Nepal, Kathmandu, Nepal
+
+Study 85:
+  NCT Number:                   NCT01276821
+  Title:                        Efficacy of Nebulised Hypertonic Saline (3%) Among Children With Bronchiolitis.
+  Status:                       Completed
+  Study Results:                Has Results
+  Conditions:                   Bronchiolitis
+  Interventions:                Drug: L-Epinephrine and Normal Saline (0.9%)|Drug: L-Epinephrine and Hypertonic Saline (3%)
+  Sponsor/Collaborators:        Dr. Aayush Khanal, MD|Tribhuvan University Teaching Hospital, Institute Of Medicine.
+  Age:                          6 Weeks to 2 Years   (Child)
+  Enrollment:                   100
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   January 2011
+  Completion Date:              April 2011
+  Locations:                    Out Patient Department and Emergency Department, Kanti Children Hospital, Kathmandu, Bagmati Zone, Nepal
+
+Study 86:
+  NCT Number:                   NCT01186302
+  Title:                        Comparison of the Safety and Efficacy of Medical Abortion Provided by Physicians and Midlevel Providers in Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Medical Abortion
+  Interventions:                Other: Type of provider
+  Sponsor/Collaborators:        World Health Organization|Center for Research and Environmental Health and Population Activities (CREHPA)
+  Age:                          16 Years to 50 Years   (Child, Adult)
+  Enrollment:                   1104
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Health Services Research
+  Start Date:                   April 2009
+  Completion Date:              July 2010
+  Locations:                    Center for Research and Environmental Health and Population Activities (CREHPA), Kathmandu, Nepal
+
+Study 87:
+  NCT Number:                   NCT01177111
+  Title:                        Impact of Sunflower Seed Oil Massage on Neonatal Mortality and Morbidity in Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Neonatal Mortality|Neonatal Sepsis
+  Interventions:                Other: Sunflower seed oil|Other: Mustard seed oil
+  Sponsor/Collaborators:        Johns Hopkins Bloomberg School of Public Health|Nepal Nutrition Intervention Project Sarlahi|Tribhuvan University, Nepal
+  Age:                          up to 28 Days   (Child)
+  Enrollment:                   29260
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   November 1, 2010
+  Completion Date:              June 30, 2017
+  Locations:                    Nepal Nutrition Intervention Project, Hariaun, Sarlahi District, Nepal
+
+Study 88:
+  NCT Number:                   NCT01034254
+  Title:                        Field Trial of Maternal Influenza Immunization in Asia
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Influenza Human
+  Interventions:                Biological: influenza vaccine|Biological: saline placebo
+  Sponsor/Collaborators:        Children's Hospital Medical Center, Cincinnati|Bill and Melinda Gates Foundation|Seattle Children's Hospital|Tribhuvan University, Nepal|Johns Hopkins Bloomberg School of Public Health|Thrasher Research Fund
+  Age:                          15 Years to 45 Years   (Child, Adult)
+  Enrollment:                   3000
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Investigator)|Primary Purpose: Prevention
+  Start Date:                   November 2010
+  Completion Date:              December 2018
+  Locations:                    Institute of Medicine, Tribhuvan Univerisity, Kathmandu, Nepal
+
+Study 89:
+  NCT Number:                   NCT00825721
+  Title:                        Dose-Ranging Study of an Ophthalamic Solution in Patients With Loss of Visual Function Due to Age-Related Nuclear Cataract
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Nuclear Cataract
+  Interventions:                Drug: LiquiTears|Drug: C-KAD Ophthalmic Solution
+  Sponsor/Collaborators:        Chakshu Research, Inc.
+  Age:                          35 Years to 90 Years   (Adult, Older Adult)
+  Enrollment:                   81
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Investigator)|Primary Purpose: Treatment
+  Start Date:                   November 2007
+  Completion Date:              September 2009
+  Locations:                    Tilganga Eye Center, Kathmandu, Nepal
+
+Study 90:
+  NCT Number:                   NCT00786877
+  Title:                        Cookstove Replacement for Prevention of ALRI and Low Birthweight in Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Acute Lower Respiratory Illness
+  Interventions:                Other: Improved biomass cookstove with exterior ventilation|Other: Phase 2 intervention arm (LPG stove)
+  Sponsor/Collaborators:        Johns Hopkins Bloomberg School of Public Health|National Institute of Environmental Health Sciences (NIEHS)|Nepal Nutrition Intervention Project Sarlahi|Thrasher Research Fund|Tribhuvan University, Nepal
+  Age:                          up to 36 Months   (Child)
+  Enrollment:                   4678
+  Study Designs:                Allocation: Randomized|Intervention Model: Crossover Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   August 2009
+  Completion Date:              May 2014
+  Locations:                    Nepal Nutrition Intervention Project Sarlahi, Kathmandu, Nepal
+
+Study 91:
+  NCT Number:                   NCT00685438
+  Title:                        Ultraviolet Exposure, Antioxidant Use and Skin Erythema at Extreme High Altitude
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Altitude|Ultraviolet Rays|Antioxidants|Oxidative Stress|Erythema
+  Interventions:                
+  Sponsor/Collaborators:        Sunnybrook Health Sciences Centre|Ontario Centres of Excellence
+  Age:                          Child, Adult, Older Adult
+  Enrollment:                   25
+  Study Designs:                Observational Model: Ecologic or Community|Time Perspective: Prospective
+  Start Date:                   April 2007
+  Completion Date:              June 2007
+  Locations:                    Mount Everest, North side, Kathmandu, Nepal
+ 
+
+Study 92:
+  NCT Number:                   NCT00287469
+  Title:                        A Safety and Efficacy Study of the Hepatitis E Vaccine in Nepal.
+  Status:                       Completed
+  Study Results:                Has Results
+  Conditions:                   Hepatitis
+  Interventions:                Biological: Hepatitis E vaccine, recombinant (Sar 56 kDa)|Other: Placebo
+  Sponsor/Collaborators:        U.S. Army Medical Research and Development Command|GlaxoSmithKline|National Institute of Allergy and Infectious Diseases (NIAID)
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   2000
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Investigator)|Primary Purpose: Prevention
+  Start Date:                   July 9, 2001
+  Completion Date:              January 2005
+  Locations:                    Shree Birendra Hospital, Kathmandu, Nepal
+
+Study 93:
+  NCT Number:                   NCT00271440
+  Title:                        Effect of Chlorhexidine Cleansing on Skin Flora of Newborns in Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Bacterial Infection
+  Interventions:                Procedure: skin cleansing with chlorhexidine (0.25%, 0.5%, 1%)
+  Sponsor/Collaborators:        Johns Hopkins Bloomberg School of Public Health|Tribhuvan University, Nepal|Nepal Nutrition Intervention Project Sarlahi
+  Age:                          up to 3 Days   (Child)
+  Enrollment:                   286
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   January 2006
+  Completion Date:              April 2006
+  Locations:                    Tribhuvan University Teaching Hospital, Kathmandu, Nepal
+
+Study 94:
+  NCT Number:                   NCT00252304
+  Title:                        Therapeutic Zinc in Childhood Pneumonia
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Pneumonia
+  Interventions:                Drug: Zinc (zinc sulphate)|Drug: Placebo
+  Sponsor/Collaborators:        Centre For International Health|Tribhuvan University, Nepal|Statens Serum Institut|All India Institute of Medical Sciences, New Delhi|Institut de Recherche pour le Developpement|Society for Applied Studies
+  Age:                          2 Months to 35 Months   (Child)
+  Enrollment:                   641
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   January 2006
+  Completion Date:              July 2008
+  Locations:                    Kanti Children Hospital, Kathmandu, Nepal
+
+Study 95:
+  NCT Number:                   NCT00148733
+  Title:                        CHIZAP: Community- and Health Facility-Based Intervention With Zinc as Adjuvant Therapy for Childhood Pneumonia
+  Status:                       Completed
+  Study Results:                Has Results
+  Conditions:                   Pneumonia
+  Interventions:                Drug: Zinc
+  Sponsor/Collaborators:        Centre For International Health|Tribhuvan University, Nepal|Statens Serum Institut|All India Institute of Medical Sciences, New Delhi|IRD, Epidemiologie et Prevention, Montpelier, France|Society for Applied Studies
+  Age:                          2 Months to 3 Years   (Child)
+  Enrollment:                   2628
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   January 2004
+  Completion Date:              January 2008
+  Locations:                    Siddhi Memorial Hospital (SMH),Bhelukhel, Bhimsensthan, Bhaktapur, Nepal
+
+Study 96:
+  NCT Number:                   NCT04087369
+  Title:                        Integrated NCD Intervention in Rural Nepal
+  Status:                       Not yet recruiting
+  Study Results:                No Results Available
+  Conditions:                   Noncommunicable Diseases|Hypertension|Chronic Obstructive Pulmonary Disease|Diabetes Mellitus, Type 2
+  Interventions:                Other: Bundled NCD WHO PEN Intervention
+  Sponsor/Collaborators:        Possible|Nyaya Health Nepal|Government of Nepal, Ministry of Health and Population
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   1000
+  Study Designs:                Intervention Model: Single Group Assignment|Masking: None (Open Label)|Primary Purpose: Health Services Research
+  Start Date:                   December 2019
+  Completion Date:              December 2023
+  Locations:                    Bayalpata Hospital, Sanfebagar-10, Achham/Province 7, Nepal|Charikot Primary Health Center, Charikot, Dolakha/Province 3, Nepal
+
+Study 97:
+  NCT Number:                   NCT03807362
+  Title:                        CC-11050 Trial in Nepalese Patients With Erythema Nodosum Leprosum
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Erythema Nodosum Leprosum|Leprosy
+  Interventions:                Drug: CC-11050
+  Sponsor/Collaborators:        The Leprosy Mission Nepal
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   50
+  Study Designs:                Intervention Model: Single Group Assignment|Masking: None (Open Label)|Primary Purpose: Treatment
+  Start Date:                   January 7, 2018
+  Completion Date:              December 31, 2024
+  Locations:                    The Leprosy Mission Nepal, Kathmandu, Bagmati, Nepal|Anandaban Hospital, Lalitpur, Bagmati, Nepal
+
+Study 98:
+  NCT Number:                   NCT03752840
+  Title:                        Village-Integrated Eye Worker Trial II
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Age-related Macular Degeneration|Diabetic Retinopathy|Glaucoma
+  Interventions:                Other: Visual acuity (presenting and pinhole)|Other: Optical coherence tomography (OCT)|Other: Intraocular pressure|Other: Active linkage to care
+  Sponsor/Collaborators:        Francis I. Proctor Foundation|Seva Foundation|Bharatpur Eye Hospital|Lumbini Eye Institute and Hospital
+  Age:                          60 Years and older   (Adult, Older Adult)
+  Enrollment:                   60000
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Single (Outcomes Assessor)|Primary Purpose: Screening
+  Start Date:                   April 21, 2019
+  Completion Date:              December 31, 2023
+  Locations:                    Bharatpur Eye Hospital, Bharatpur, Chitwan, Nepal|Lumbini Eye Institute, Bhairahawa, Nepal
+
+Study 99:
+  NCT Number:                   NCT03371186
+  Title:                        Implementing an Integrated RMNCH Intervention by Community Health Workers in Achham and Dolakha: National Pilot
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Reproductive, Maternal, Newborn, and Child Health|Integrated, Community-Health Systems
+  Interventions:                Other: Community Health Worker|Other: Continuous Surveillance|Other: CB-Integrated Management of Newborn and Childhood Illness|Other: Group Antenatal and Postnatal Care|Other: Balanced Post-Partum Contraceptive Counseling
+  Sponsor/Collaborators:        Possible|United States Agency for International Development (USAID)|National Institutes of Health (NIH)|Government of Nepal, Ministry of Health|Planned Parenthood League of Massachusetts
+  Age:                          15 Years to 49 Years   (Child, Adult)
+  Enrollment:                   12000
+  Study Designs:                Intervention Model: Single Group Assignment|Masking: None (Open Label)|Primary Purpose: Health Services Research
+  Start Date:                   February 2016
+  Completion Date:              February 2021
+  Locations:                    Bayalpata Hospital, Sanfebagar, Achham, Nepal|Charikot Primary Health Center, Bhimeshwor, Dolakha, Nepal
+
+Study 100:
+  NCT Number:                   NCT03231761
+  Title:                        Impact of Video Presentations on Medical Students' Attitudes Toward Mental Illness
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Stigmatization|Depression|Psychosis
+  Interventions:                Other: Service user testimonial videos|Other: mhGAP didactic video
+  Sponsor/Collaborators:        George Washington University
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   300
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Single (Participant)|Primary Purpose: Other
+  Start Date:                   August 21, 2017
+  Completion Date:              August 31, 2018
+  Locations:                    Tribhuvan University Institute of Medicine, Maharajgunj, Kathmandu, Nepal|Kathmandu University School of Medicine, Dhulikhel, Nepal
+
+Study 101:
+  NCT Number:                   NCT02773407
+  Title:                        Nepal Undifferentiated Febrile Illness Trial
+  Status:                       Active, not recruiting
+  Study Results:                No Results Available
+  Conditions:                   Undifferentiated Febrile Illness
+  Interventions:                Drug: Azithromycin|Drug: Co-trimoxazole
+  Sponsor/Collaborators:        Oxford University Clinical Research Unit, Vietnam|University of Oxford|Wellcome Trust
+  Age:                          2 Years to 65 Years   (Child, Adult, Older Adult)
+  Enrollment:                   330
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   May 23, 2016
+  Completion Date:              August 4, 2020
+  Locations:                    Nepal Civil Service Hospital, Kathmandu, Nepal|Patan Hospital, Kathmandu, Nepal
+
+Study 102:
+  NCT Number:                   NCT02376062
+  Title:                        Bundled Intervention Integrating Mental Health Services in Nepal
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Mental Health
+  Interventions:                Other: Bundled Intervention
+  Sponsor/Collaborators:        Possible|University of California, San Francisco|Harvard Medical School Center for Global Health Delivery-Dubai|National Institute of Mental Health (NIMH)|Brigham and Women's Hospital
+  Age:                          15 Years and older   (Child, Adult, Older Adult)
+  Enrollment:                   225
+  Study Designs:                Intervention Model: Single Group Assignment|Masking: None (Open Label)|Primary Purpose: Health Services Research
+  Start Date:                   February 6, 2016
+  Completion Date:              July 30, 2019
+  Locations:                    Bayalpata Hospital, Sanfebagar, Achham, Nepal|Charikot Primary Health Center, Bhimeshwor, Dolakha, Nepal
+
+Study 103:
+  NCT Number:                   NCT02331082
+  Title:                        Integrating Pediatric Care Delivery in Rural Healthcare Systems
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Infant Mortality|Under-two Mortality
+  Interventions:                Other: Structured Quality Improvement|Other: Chronic Care Model|Device: Integrated Electronic Medical Record|Device: Solar-powered electrical supply|Behavioral: Performance-based financing|Other: Existing healthcare system
+  Sponsor/Collaborators:        Possible|Brigham and Women's Hospital|National Institutes of Health (NIH)
+  Age:                          15 Years to 49 Years   (Child, Adult)
+  Enrollment:                   7000
+  Study Designs:                Allocation: Non-Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Health Services Research
+  Start Date:                   November 1, 2014
+  Completion Date:              October 2019
+  Locations:                    Bayalpata Hospital, Sanfebagar, Achham, Nepal|Charikot Primary Health Center, Bhimeshwor, Dolakha, Nepal
+
+Study 104:
+  NCT Number:                   NCT01856205
+  Title:                        Safety and Efficacy Study of Intravenous Immunoglobulin to Treat Japanese Encephalitis
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Japanese Encephalitis
+  Interventions:                Drug: Intravenous immunoglobulin [ImmunoRel™ (batch 20081217)]
+  Sponsor/Collaborators:        University of Liverpool|Kanti Children's Hospital|B.P. Koirala Institute of Health Sciences
+  Age:                          1 Year to 14 Years   (Child)
+  Enrollment:                   22
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   May 2009
+  Completion Date:              August 2009
+  Locations:                    Kanti Children's Hospital, Kathmandu, Bagmati, Nepal|BP Koirala Institute of Health Sciences, Dharan, Koshi, Nepal
+
+Study 105:
+  NCT Number:                   NCT01486615
+  Title:                        Premedication With Melatonin and Alprazolam Combination Versus Alprazolam or Melatonin Alone
+  Status:                       Completed
+  Study Results:                Has Results
+  Conditions:                   Anxiety
+  Interventions:                Drug: meloset (melatonin)|Drug: stresnil ( melatonin and alprazolam)|Drug: (alprax) alprazolam|Drug: placebo
+  Sponsor/Collaborators:        B.P. Koirala Institute of Health Sciences
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   80
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Triple (Participant, Care Provider, Investigator)|Primary Purpose: Treatment
+  Start Date:                   October 2011
+  Completion Date:              January 2012
+  Locations:                    B. P. Koirala Institute of Health Sciences, Dharan, Koshi, Nepal|Dr Krishna Pokharel, Dharan, Koshi, Nepal
+
+Study 106:
+  NCT Number:                   NCT01421693
+  Title:                        Gatifloxacin Versus Ceftriaxone in the Treatment of Enteric Fever
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Enteric Fever|Typhoid Fever
+  Interventions:                Drug: Ceftriaxone|Drug: Gatifloxacin
+  Sponsor/Collaborators:        Oxford University Clinical Research Unit, Vietnam|University of Oxford|Patan Academy of Health Sciences, Nepal|Patan Hospital, Nepal|Civil Hospital, Nepal
+  Age:                          2 Years to 45 Years   (Child, Adult)
+  Enrollment:                   300
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Treatment
+  Start Date:                   September 2011
+  Completion Date:              January 2015
+  Locations:                    Civil Hospital, Kathmandu, Nepal|Patan Hospital, Kathmandu, Nepal
+
+Study 107:
+  NCT Number:                   NCT04083560
+  Title:                        A Comparison of Two Different Doses of Maternal B12 Supplementation in Improving Infant B12 Deficiency and Neurodevelopment
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Vitamin B 12 Deficiency
+  Interventions:                Drug: Vit B12
+  Sponsor/Collaborators:        Sitaram Bhartia Institute of Science and Research|Public Health Foundation of India|Paropakar Matenity and Women's Hospital, Kathmandu, Nepal|University College, London
+  Age:                          18 Years to 35 Years   (Adult)
+  Enrollment:                   720
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   September 26, 2018
+  Completion Date:              September 25, 2021
+  Locations:                    Sitaram Bhartia Institute of Science and Research, New Delhi, Delhi, India|Rajendra Pant, Kathmandu, Nepal
+
+Study 108:
+  NCT Number:                   NCT03783104
+  Title:                        Maternal B12 Supplementation to Improve Infant B12 Deficiency and Neurodevelopment
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Child Developmental Delay|Child Malnutrition|Maternal Exposure|Vitamin B 12 Deficiency
+  Interventions:                Dietary Supplement: B12 Supplement
+  Sponsor/Collaborators:        University College, London|Sitaram Bhartia Institute of Science and Research|Paropakar Maternity and Women's Hospital
+  Age:                          18 Years to 35 Years   (Adult)
+  Enrollment:                   720
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   April 27, 2019
+  Completion Date:              December 1, 2021
+  Locations:                    Sitaram Bhartia Institute for Science and Research, New Delhi, India|Paropakar Maternity and Women's Hospital, Kathmandu, Nepal
+
+Study 109:
+  NCT Number:                   NCT03723837
+  Title:                        Persistence of IPV Immunity
+  Status:                       Not yet recruiting
+  Study Results:                No Results Available
+  Conditions:                   Poliomyelitis
+  Interventions:                Biological: Inactivated Polio Vaccine (IPV)
+  Sponsor/Collaborators:        Tribhuvan University Teaching Hospital, Institute Of Medicine.|World Health Organization|Centers for Disease Control and Prevention
+  Age:                          7 Months to 36 Months   (Child)
+  Enrollment:                   500
+  Study Designs:                Allocation: Non-Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   November 15, 2018
+  Completion Date:              August 15, 2019
+  Locations:                    Kanti Children's Hospital, Kathmandu, Nepal|Patan Hospital, Kathmandu, Nepal|Tribhuvan University Teaching Hospital, Kathmandu, Nepal
+
+
+Study 110:
+  NCT Number:                   NCT00318721
+  Title:                        Efficacy, Acceptability and Cost-effectiveness of Long Lasting Insecticide Nets (LLIN) in the Prevention of Kala Azar
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Visceral Leishmaniasis|Kala Azar
+  Interventions:                Device: Long Lasting Impregnated Nets (LLIN)
+  Sponsor/Collaborators:        London School of Hygiene and Tropical Medicine|Institute of Tropical Medicine, Belgium|University Hospital, Geneva|Rajendra Memorial Research Institute of Medical Sciences|Institute of Medical Sciences of the Banaras Hindu University (BHU),India|International Centre for Diarrhoeal Disease Research, Bangladesh|B.P. Koirala Institute of Health Sciences
+  Age:                          2 Years and older   (Child, Adult, Older Adult)
+  Enrollment:                   20000
+  Study Designs:                Allocation: Randomized|Intervention Model: Single Group Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   June 2006
+  Completion Date:              November 2009
+  Locations:                    Kala Azar Medical Research Center, Muzaffarpur, Bihar, India|B P Koirala Institute of Health Sciences, Dharan, Nepal
+
+Study 111:
+  NCT Number:                   NCT03346629
+  Title:                        Outpatient Service for Mid-trimester Termination of Pregnancy
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Abortion in Second Trimester
+  Interventions:                Drug: Mifepristone + Misoprostol
+  Sponsor/Collaborators:        Gynuity Health Projects|CREHPA|Kathmandu Medical College and Teaching Hospital|Kathmandu Model Hospital|KIST Medical College
+  Age:                          Child, Adult, Older Adult
+  Enrollment:                   230
+  Study Designs:                Intervention Model: Single Group Assignment|Masking: None (Open Label)|Primary Purpose: Treatment
+  Start Date:                   December 1, 2017
+  Completion Date:              December 31, 2018
+  Locations:                    KIST Medical College, Teaching Hospital, Imadol, Lalitpur, Nepal|Kathmandu Medical College, Kathmandu, Nepal|Kathmandu Model Hospital, Kathmandu, Nepal
+
+Study 112:
+  NCT Number:                   NCT00109616
+  Title:                        Community Trial of Newborn Skin and Umbilical Cord Cleansing on Neonatal Mortality in Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Neonatal Mortality
+  Interventions:                Behavioral: Newborn skin cleansing with 0.25% chlorhexidine solution|Behavioral: Cleansing of umbilical cord with soap and water solution|Behavioral: Cleansing of umbilical cord with 4% chlorhexidine
+  Sponsor/Collaborators:        Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)|United States Agency for International Development (USAID)|Bill and Melinda Gates Foundation
+  Age:                          up to 10 Days   (Child)
+  Enrollment:                   17000
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double|Primary Purpose: Prevention
+  Start Date:                   October 2002
+  Completion Date:              January 2006
+  Locations:                    Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, United States|Nepal Nutrition Intervention Project-Sarlahi, Kathmandu and Sarlahi District, Nepal
+
+Study 113:
+  NCT Number:                   NCT01284855
+  Title:                        Comparison of Two Dose Regimens of Snake Antivenom for the Treatment of Snake Bites Envenoming in Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Snake Bite
+  Interventions:                Drug: Antivenom
+  Sponsor/Collaborators:        CTU|University Hospital, Geneva
+  Age:                          5 Years and older   (Child, Adult, Older Adult)
+  Enrollment:                   250
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Investigator)|Primary Purpose: Treatment
+  Start Date:                   April 2011
+  Completion Date:              March 20, 2013
+  Locations:                    Bharatpur Hospital, Bharatpur, Chitwan, Nepal|Charali snake bite treatment centre, Charali, Jhapa, Nepal|Damak red cross center, Damak, Jhapa, Nepal
+
+Study 114:
+  NCT Number:                   NCT03933098
+  Title:                        Immune Non-inferiority and Safety of a Vi-DT Typhoid Conjugate Vaccine
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Typhoid
+  Interventions:                Biological: Test Vaccine Vi-DT Typhoid conjugate|Biological: Control Vaccine Typbar TCV®
+  Sponsor/Collaborators:        International Vaccine Institute|SK Bioscience Co., Ltd.
+  Age:                          6 Months to 45 Years   (Child, Adult)
+  Enrollment:                   1800
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Prevention
+  Start Date:                   November 15, 2019
+  Completion Date:              January 2021
+  Locations:                    Nepalgunj medical college, Banke, City- Nepalgunj, Nepal|B.P.Koirala Institute of Health Sciences, Rautahat, Dharan, Nepal|Dhulikhel Hospital, Kavre, Dhulikhel, Nepal|Kanti Children's Hospital, Kathmandu, Sukedhara, Nepal
+
+Study 115:
+  NCT Number:                   NCT03359915
+  Title:                        GECo: Implementation and Effectiveness of COPD Self Management Action Plans in Low and Middle Income Countries
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Chronic Obstructive Pulmonary Disease
+  Interventions:                Behavioral: COPD Self-Management Plan
+  Sponsor/Collaborators:        University College, London|Johns Hopkins University|Universidad Peruana Cayetano Heredia|Asociación Benéfica Prisma|Makerere University|University of York|Institute of Medicine, Tribhuvan University, Nepal
+  Age:                          40 Years and older   (Adult, Older Adult)
+  Enrollment:                   240
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Health Services Research
+  Start Date:                   December 2017
+  Completion Date:              February 2020
+  Locations:                    Institute of Medicine, Kathmandu, Nepal|Universidad Peruana Cayetano Heredia, Lima, Peru|Makerere University Lung Institute, Makerere, Uganda
+
+Study 116:
+  NCT Number:                   NCT02718222
+  Title:                        Impact and Performance of Institutionalizing Immediate Post-partum IUD Services
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Contraception
+  Interventions:                Device: Post-partum IUD
+  Sponsor/Collaborators:        Harvard School of Public Health|International Federation of Gynaecology and Obstetrics
+  Age:                          Child, Adult, Older Adult
+  Enrollment:                   140258
+  Study Designs:                Allocation: Randomized|Intervention Model: Crossover Assignment|Masking: None (Open Label)|Primary Purpose: Health Services Research
+  Start Date:                   September 2015
+  Completion Date:              December 2018
+  Locations:                    Center for Research on Enviornment Health and Population Activities, Kathmandu, Nepal|Sri Lanka College of Obstetricians and Gynecologists, Colombo, Sri Lanka|Management and Development for Health, Dar es Salaam, Tanzania
+
+
+Study 117:
+  NCT Number:                   NCT03625206
+  Title:                        Cognitive Bias Modification Training in Adolescents Who Have Experienced Adversity
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Child Abuse|Child Neglect|Victimization
+  Interventions:                Behavioral: Cognitive bias modification training|Behavioral: Control training
+  Sponsor/Collaborators:        Institute of Psychiatry, London|Banaras Hindu University|Tribhuvan University, Nepal
+  Age:                          12 Years to 18 Years   (Child, Adult)
+  Enrollment:                   160
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Outcomes Assessor)|Primary Purpose: Basic Science
+  Start Date:                   April 17, 2018
+  Completion Date:              May 17, 2020
+  Locations:                    Psychology Department, Varanasi, India|Psychology Department, Tribuwan University, Kathmandu, Nepal|Psychology Department, Institute of Psychiatry, Psychology and Neuroscience, London, United Kingdom
+
+
+Study 118:
+  NCT Number:                   NCT01686867
+  Title:                        Feasibility Intervention Trial of Two Types of Improved Cookstoves in Three Developing Countries
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Poisoning by Carbon Monoxide From Domestic Fuels|Respiratory Conditions Due to Other External Agents
+  Interventions:                Device: Improved, ventilated cookstove
+  Sponsor/Collaborators:        Johns Hopkins Bloomberg School of Public Health|Universidad Peruana Cayetano Heredia|National Institutes of Health (NIH)|Brown University|Moi University|Asociación Benéfica Prisma|Nepal Nutrition Intervention Project Sarlahi
+  Age:                          20 Years to 40 Years   (Adult)
+  Enrollment:                   137
+  Study Designs:                Allocation: Randomized|Intervention Model: Crossover Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   April 2012
+  Completion Date:              May 2014
+  Locations:                    Moi University, Eldoret, Kenya|Nepal Nutrition Intervention Project - Sarlahi (NNIPS), Kathmandu, Nepal|A.B. Prisma, Ayacucho, Peru
+
+
+Study 119:
+  NCT Number:                   NCT02912611
+  Title:                        Detection and Management of Acute Kidney Injury (AKI) in Low and Low Middle Income Countries: A Pilot Feasibility Project
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Acute Kidney Injury
+  Interventions:                Procedure: Education and Protocol based management
+  Sponsor/Collaborators:        University of California, San Diego|International Society of Nephrology
+  Age:                          Child, Adult, Older Adult
+  Enrollment:                   3600
+  Study Designs:                Intervention Model: Single Group Assignment|Masking: None (Open Label)|Primary Purpose: Diagnostic
+  Start Date:                   October 2016
+  Completion Date:              
+  Locations:                    Hospital Obrero #2, Cochabamba, Bolivia|Queen Elizabeth Central Hospital (QECH), Blantyre, Malawi|BP Koirala Institute of Health Sciences, Dharan, Nepal
+
+Study 120:
+  NCT Number:                   NCT00109551
+  Title:                        Community Trial of Zinc Supplementation on Preschool Child Mortality and Morbidity in Southern Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Nutrition
+  Interventions:                Drug: zinc sulphate dietary supplement|Drug: iron sulphate-folic acid dietary supplement
+  Sponsor/Collaborators:        Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)|United States Agency for International Development (USAID)|Bill and Melinda Gates Foundation
+  Age:                          1 Month to 36 Months   (Child)
+  Enrollment:                   58000
+  Study Designs:                Allocation: Randomized|Intervention Model: Factorial Assignment|Masking: Double|Primary Purpose: Prevention
+  Start Date:                   October 2001
+  Completion Date:              January 2006
+  Locations:                    Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, United States|Cornell University Division of Nutritional Sciences, Ithaca, New York, United States|Nepal Nutrition Intervention Project-Sarlahi, Kathmandu and Sarlahi District, Nepal
+
+
+Study 121:
+  NCT Number:                   NCT02708446
+  Title:                        A Comparison of Sublingual and Buccal Misoprostol Regimens After Mifepristone for Mid-trimester Abortion
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Legally Induced Abortion Without Mention of Complication
+  Interventions:                Drug: Mifepristone|Drug: Buccal misoprostol|Drug: Sublingual misoprostol
+  Sponsor/Collaborators:        Gynuity Health Projects|La Rabta Maternity Hospital|Republican Institute of RH, Perinatology, and Ob/Gyn|Kathmandu Medical College and Teaching Hospital|Clinic No. 2 of Tashkent Medical Academy
+  Age:                          Child, Adult, Older Adult
+  Enrollment:                   320
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Treatment
+  Start Date:                   May 2014
+  Completion Date:              December 2016
+  Locations:                    b. Republican Institute of Reproductive Health, Perinatology, Obstetrics and Gynecology (RIRHPOG), Yerevan, Armenia|Kathmandu Medical College, Kathmandu, Nepal|La Rabta Maternity Hospital, Tunis, Tunisia|Clinic No. 2, Tashkent Medical Academy, Tashkent, Uzbekistan
+
+
+Study 122:
+  NCT Number:                   NCT00128193
+  Title:                        Leprosy Skin Test Antigens Trial
+  Status:                       Completed
+  Study Results:                Has Results
+  Conditions:                   Leprosy
+  Interventions:                Biological: Tuberculin, Purified Protein Derivative|Other: MLSA-LAM|Other: MLCwA|Other: Placebo
+  Sponsor/Collaborators:        National Institute of Allergy and Infectious Diseases (NIAID)
+  Age:                          18 Years to 60 Years   (Adult)
+  Enrollment:                   260
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Investigator)|Primary Purpose: Diagnostic
+  Start Date:                   April 2002
+  Completion Date:              September 2009
+  Locations:                    Colorado State University - Microbiology, Immunology & Pathology, Fort Collins, Colorado, United States|Anandaban Hospital, Kathmandu, Nepal|Green Pastures Hospitals, Kathmandu, Nepal|Lalitpur Nursing Campus, Kathmandu, Nepal|Patan Hospital, Kathmandu, Nepal|Tribhuvan University - Anandaban Hospital, Kathmandu, Nepal
+
+
+Study 123:
+  NCT Number:                   NCT03723525
+  Title:                        Package of Care to Improve Retention in ART and Mortality Among Treatment Naive HIV Infected Individuals
+  Status:                       Active, not recruiting
+  Study Results:                No Results Available
+  Conditions:                   HIV
+  Interventions:                Combination Product: Package of HIV care|Combination Product: Standard HIV care
+  Sponsor/Collaborators:        National Centre for AIDs and STD Control, Nepal|Sukraraj Tropical and Infectious Disease Hospital|National Academy of Medical Sciences, Nepal|Tribhuvan University Teaching Hospital, Institute Of Medicine.|Rapti Sub-regional Hospital|Western Regional Hospital|Seti Zonal Hospital|Tikapur Hospital|Mahakali Zonal Hospital|Bharatpur Eye Hospital|B.P. Koirala Institute of Health Sciences|Expertise France|Karolinska Institutet
+  Age:                          16 Years and older   (Child, Adult, Older Adult)
+  Enrollment:                   1073
+  Study Designs:                Allocation: Randomized|Intervention Model: Factorial Assignment|Masking: None (Open Label)|Primary Purpose: Treatment
+  Start Date:                   January 22, 2018
+  Completion Date:              November 29, 2019
+  Locations:                    Sukraraj Tropical & Infectious Disease Control Hospital, Kathmandu, Bagmati, Nepal|Bharatpur District Hospital, Bharatpur, Nepal|Rapti Sub Regional Hospital, Dang, Nepal|Seti Zonal Hospital, Kailālī, Nepal|Tikapur Hospital, Kailālī, Nepal|Mahakali Zonal Hospital, Kanchanpur, Nepal|National Academy of Medical Science (NAMS), Bir Hospital, Kathmandu, Nepal|Tribhuvan University Teaching Hospital, Kathmandu, Nepal|Western Regional Hospital, Pokhara, Nepal|B.P. Koirala Institute of Health Sciences, Sunsari, Nepal
+
+
+Study 124:
+  NCT Number:                   NCT03071029
+  Title:                        PAFP Provider Feedback Trial in Nepal
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Health Behavior
+  Interventions:                Behavioral: Monthly PAFP rates displayed at clinics.
+  Sponsor/Collaborators:        Marie Stopes International|ideas42
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   12000
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   July 2016
+  Completion Date:              February 2017
+  Locations:                    Marie Stopes Chuchchepati, Kathmandu, Bagati, Nepal|Marie Stopes Gongabu, Kathmandu, Bagati, Nepal|Marie Stopes Putalisadak, Kathmandu, Bagmati, Nepal|Marie Stopes Satdobato, Kathmandu, Bagmati, Nepal|Marie Stopes Banepa, Kavre, Bagmati, Nepal|Marie Stopes Nuwakot, Nuwakot, Bagmati, Nepal|Marie Stopes Kohalpur, Banke, Bheri, Nepal|Marie Stopes Surkhet, Surkhet, Bheri, Nepal|Marie Stopes Parbat, Parbat, Dhaulagiri, Nepal|Marie Stopes Gorkha, Gorkha, Gandaki, Nepal|Marie Stopes Pokhara, Kaski, Gandaki, Nepal|Marie Stopes Dumre, Tanahun, Gandaki, Nepal|Marie Stopes Janakpur, Dhanusa, Janakpur, Nepal|Marie Stopes Bardibas, Mahottari, Janakpur, Nepal|Marie Stopes Lalbandi, Sarlahi, Janakpur, Nepal|Marie Stopes Jumla, Jumla, Karnali, Nepal|Marie Stopes Hile, Dhankuta, Koshi, Nepal|Marie Stopes Biratnagar, Morang, Koshi, Nepal|Marie Stopes Itahari, Sunsari, Koshi, Nepal|Marie stopes Arghakhachi, Arghakhachi, Lumbini, Nepal|Marie Stopes Gulmi, Gulmi, Lumbini, Nepal|Marie Stopes Chandrauta, Kapilbastu, Lumbini, Nepal|Marie Stopes Taulihawa, Kapilbastu, Lumbini, Nepal|Marie Stopes Bardghat, Nawalparasi, Lumbini, Nepal|Marie Stopes Bhairahawa, Rupandehi, Lumbini, Nepal|Marie Stopes Butwal, Rupandehi, Lumbini, Nepal|Marie Stopes Dadheldhura, Dadheldhura, Mahakali, Nepal|Marie Stopes Ilam, Ilam, Mechi, Nepal|Marie Stopes Birtamod, Jhapa, Mechi, Nepal|Marie Stopes Narayanghat, Chitwan, Narayani, Nepal|Marie Stopes Hetauda, Makwanpur, Narayani, Nepal|Marie Stopes Birgunj, Parsa, Narayani, Nepal|Marie Stopes Dang, Dang, Rapti, Nepal|Marie Stopes Pyuthan, Pyuthan, Rapti, Nepal|Marie Stopes Lahan, Siraha, Sagarmatha, Nepal|Marie Stopes Attariya clinic, Kailali, Seti, Nepal
+
+
+Study 125:
+  NCT Number:                   NCT02832544
+  Title:                        INVestIgation of rheumatiC AF Treatment Using Vitamin K Antagonists, Rivaroxaban or Aspirin Studies, Non-Inferiority
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Rheumatic Heart Disease
+  Interventions:                Drug: Rivaroxaban (20 mg)|Drug: Vitamin K antagonists (VKA)
+  Sponsor/Collaborators:        Population Health Research Institute|University of Cape Town|Bayer
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   4500
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Prevention
+  Start Date:                   August 22, 2016
+  Completion Date:              October 2020
+  Locations:                    Princess Marina Hospital, Gaborone, Botswana|Cardresearch - Cardiologia Assistencial e de Pesquisa, Belo Horizonte, Minas Gerais, Brazil|Nucleo de Estudios Clinicos - Universidade Federal do Triângulo Mineiro, Uberaba, Minas Gerais, Brazil|Eurolatino Pesquisas Médicas Ltda, Uberlândia, Minas Gerais, Brazil|Clínica Procardio Ltda., Blumenau, Santa Catarina, Brazil|Instituto de Pesquisa Clínica de Campinas, Campinas, Brazil|LOEMA - Instituto de Pesquisa Clínica & Consultores Ltda, Campinas, Brazil|Via Médica Centro Clínico Barroso e Sebba Ltda, Goiania, Brazil|Instituto de Cardiologia do Rio Grande do Sul, Porto Alegre, Brazil|Fundação Faculdade de Medicina de São José do Rio Preto, São José do Rio Preto, Brazil|Instituto do Coração - HCFMUSP, São Paulo, Brazil|Instituto Dante Pazzanese de Cardiologia, São Paulo, Brazil|Santa Casa de Misericórdia de Votuporanga, Votuporanga, Brazil|Clinique Coeur Et Vie, Douala, Cameroon|Douala General Hospital, Douala, Cameroon|St. Elizabeth Catholic General Hospital, Cardiac Centre, Kumbo, Cameroon|Hopital Central Yaounde, Yaounde, Cameroon|Liangxiang Hospital, Beijing, Beijing, China|The First Affiliated Hospital/School of Clinical Medicine of Guangdong Pharmaceutical University, Guangzhou, Guangdong, China|Sun Yat-Sen Cardiovascular Hospital, Shenzhen, Guangdong, China|Shunping Xinghe Hospital, Baoding, Hebei, China|Jixi People's Hospital, Jixi, Heilongjiang, China|Tieli People's Hospital, Yichun, Heilongjiang, China|Luoyang Central's Hospital Affiliated to Zhengzhou University, Luoyang, Henan, China|Puyang Oilfield General Hospital, Puyang, Henan, China|Dancheng County People's Hospital, Zhoukou, Henan, China|Suiping Renan Hospital, Zhumadian, Henan, China|Jianshi County People's Hospital, Enshi, Hubei, China|Suqian Peaple's Hospital of Nanjing Drum-Tower Hospital Group, Suqian, Jiangsu, China|Tonghua Central Hospital, Tonghua, Jilin, China|Affiliated Zhongshan Hospital of Dalian University, Dalian, Liaoning, China|The First Affiliated Hospital of Dalian Medical University, Dalian, Liaoning, China|Ningxia Peple's Hospital, Yinchuan, Ningxia, China|Xi'an Chang'an Hospital, Xi'an, Shanxi, China|Pi County People's Hospital, Chengdu, Sichuan, China|Anyue County People's Hospital, Ziyang, Sichuan, China|Wendeng Central Hospital, Weihai, Wendeng, China|Ninghai People's Hospital, Ningbo, Zhejiang, China|Beijing Anzhen Hospital, Beijing, China|Zhongmou County People's Hospital, Henan, China|Zhengzhou No.7 People's Hospital, Henan, China|The 1st Affiliated Hospital of Zhengzhou University, Henan, China|Zhengzhou 9th People's Hospital, Henan, China|Guangshan County People's Hospital, Henan, China|Wuhan No. 1 Hospital, Wuhan, China|Alexandria University Hospital, Alexandria, Egypt|Assuit General Hospital, Assuit, Egypt|Benha University Cardiology Department, Banha, Egypt|Beni Suef University Hospital, Beni Suef, Egypt|Ain Shams University Hospital, Cairo, Egypt|Kasr El Einy Hospital (Cairo University), Cairo, Egypt|Mehallah Rheumatic Heart Center, El Mahalla El Kubra, Egypt|Specialized Medical Hospital - Mansoura, El Mansura, Egypt|Fayoum General Hospital, Fayoum, Egypt|National Heart Institute, Giza, Egypt|Suez Canal University Hospital, Ismailia, Egypt|El Minia University Hospital, Minya, Egypt|Sohag University, Sohag, Sohag, Egypt|Red Crescent Hospital, Tanta, Egypt|Zagazig University Hospital, Zagazig, Egypt|Hawassa University Referral Hospital, Hawassa, Snnpr, Ethiopia|College of Health Sciences, Addis Ababa University, Black Lion Hospital, Addis Ababa, Ethiopia|Gondar University Hospital, Gondar, Ethiopia|Jimma University Hospital, Jimma, Ethiopia|Mekelle University, Mekelle, Ethiopia|Dr. Ram Manohar Lohia Hospital @ PGIMER, New Delhi, Delhi, India|Govind Ballabh Pant Hospital (GIPMER), New Delhi, Delhi, India|All India Institute of Medical Sciences, New Delhi, Delhi, India|Sri Jayadev Institute of Cardiovascular Sciences and Research, Bangalore, Karnataka, India|SMS Medical College, Jaipur, Rajasthan, India|King George's Medical College, Lucknow, Uttar Pradesh, India|Sanjay Gandhi Post Graduate Institute of Medical Sciences, Lucknow, Uttar Pradesh, India|PGIMER, Chandigarh, India|Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER), Pondicherry, India|Kazakh National Medical Institute,, Almaty, Kazakhstan|Moi Teaching and Referral Hospital, Eldoret, Kenya|Karen Hospital, Nairobi, Kenya|The Mater Hospital, Nairobi, Kenya|Aga Khan University Hospital, Nairobi, Kenya|Kenyatta National Hospital / University Of Nairobi, Nairobi, Kenya|Clinical Hospital of administrative department of President and Government of Kyrgyz Republic, Bishkek, Kyrgyzstan|National Center of Cardiology and Internal Diseases, Bishkek, Kyrgyzstan|Queen Elizabeth Central Hospital, Blantyre, Malawi|Kumuzu Central Hospital, Lilongwe, Malawi|Mzuzu Central Hospital, Mzuzu, Malawi|Hospital Angeles León, León, Guanajuato, Mexico|Hospital General De Acapulco, Acapulco, Guerrero, Mexico|Hospital General Dr. Jorge Soberon Acevedo.Secretaria de Salud del Estado de Guerrero, Iguala, Guerrero, Mexico|Hospital Bernardette, Guadalajara, Jalisco, Mexico|Centro de Estudios Clínicos de Querétaro S.C., Queretaro, Querétaro, Mexico|Centro para el Desarrollo de la Medicina y Asistencia Especializada S.C., Culiacan, Sinaloa, Mexico|Instituto de Investigación del Hospital Cardiológica Aguascalientes, Aguascalientes, Mexico|Universidad Nacional Autónoma de México. Hospital General de México, Mexico City, Mexico|Instituto Nacional de Cardiología Ignacio Chavez, México, Mexico|Maputo Central Hospital, Maputo, Mozambique|Instituto Nacional de Saude & Universidade Eduardo Mondlane, Maputo, Mozambique|College of Medical Sciences, Bharatpur, Nepal|Chitwan Medical College, Bharatpur, Nepal|Nobel medical college and teaching hospital pvt ltd, Biratnagar, Nepal|Gautam Buddha Community Heart Hospital, Butwal, Nepal|BP Koirala Institute of Health Sciences, Dharan, Nepal|Manmohan Cardiothoracic Vascular and Trasplant Center, IOM, TU, Kathmandu, Nepal|Sahid Gangalal Heart Center, Kathmandu, Nepal|Bheri Zonal Hospital, Nepalgunj, Nepal|Manipal College of Medical Sciences, Pokhara, Nepal|Federal Medical Center, Abeokuta, Nigeria|University of Nigeria Teaching Hospital, Enugu, Nigeria|College of Medicine, University of Ibadan, Ibadan, Nigeria|Jos University Teaching Hospital, Jos, Nigeria|Ahmadu Bello University Teaching Hospital, Kaduna, Nigeria|Aminu Kano University Teaching Hospital, Kano, Nigeria|Department of Medicine, Lagos University Teaching Hospital, Lagos, Nigeria|Ladoke Akintola University of Technology Teaching Hospital, Ogbomoso, Nigeria|Department of Medicine, Delta State University Teaching Hospital, Oghara, Nigeria|Olabisi Onabanjo University Teaching Hospital, Sagamu, Nigeria|Punjab Institute of Cardiology, Lahore, Punjab, Pakistan|Isra University Hospital, Hyderabad, Pakistan|Nishtar Hospital Multan, Multan, Pakistan|Lady Reading Hospital, Peshawar, Pakistan|Rawalpindi Institute of Cardiology, Rawalpindi, Pakistan|Instituto Nacional de Cardiología, Asunción, Paraguay|Hospital Barrio Obrero, Asunción, Paraguay|Hospital Regional de Ciudad Del Este, Ciudad del Este, Paraguay|Hospital Nacional Itaugua, Itaugua, Paraguay|Clinical Hospital, San Lorenzo, Paraguay|Palawan Medical City, Puerto Princesa City, Palawan, Philippines|Philippine General Hospital, Manila, Philippines|Philippine Heart Center, Quezon City, Philippines|Quirino Memorial Medical Center, Quezon City, Philippines|University of Rwanda, Kigali University Teaching Hospital, Kigali, Rwanda|Nelson Mandela Academic Hospital, Mthatha, Eastern Cape, South Africa|Charlotte Maxeke Academic Hospital, Johannesburg, Parktown, South Africa|Sefako Makgatho Health Sciences University, Ga-Rankuwa,, Pretoria, South Africa|Cardiology Research Universitas private hospital, Bloemfontein, South Africa|University of Cape Town, Cape Town, South Africa|Margate Clinical Trial Center, Margate, South Africa|University of Limpopo, Polokwane, South Africa|Port Elizabeth Hospital Complex, Port Elizabeth, South Africa|Chris Hani Baragwanath Hospital, Soweto, South Africa|Alobeid Teaching Hospital, Alobeid, Sudan|Atbara Teaching Hospital, Atbara, Sudan|Ahmed Gasim Hospital, Khartoum, Sudan|Alshaab Teaching Hospital, Khartoum, Sudan|Ahmed Gasim Pediatric Hospital, Khartoum, Sudan|Sudan Heart Center, Khartoum, Sudan|Digna Prince Hospital, Port Sudan, Sudan|Medani Heart Centre, Wad Medani, Sudan|Muhimbili University of Health and Allied Sciences, Dar es Salaam, Tanzania|University of Dodoma Teaching Hospital, Dodoma, Tanzania|Mbeya Zonal Referral Hospital, Mbeya, Tanzania|Uganda Heart Institute, Kampala, Uganda|Livingstone Central Hospital, Livingstone, Zambia|University Teaching Hospital (UTH), Lusaka, Zambia|Ndola Central Hospital, Ndola, Zambia|Mpilo Hospital, National University Science & Technology, Bulawayo, Zimbabwe|Harare Hospital, Harare, Zimbabwe|Parirenyatwa Hospital, Harare, Zimbabwe
+
+Study 126:
+  NCT Number:                   NCT01766830
+  Title:                        Rapid Diagnostic Tests and Clinical/Laboratory Predictors of Tropical Diseases In Patients With Persistent Fever in Cambodia, Nepal, Democratic Republic of the Congo and Sudan (NIDIAG-Fever)
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Visceral Leishmaniasis|Human African Trypanosomiasis|Enteric Fever|Melioidosis|Brucellosis|Leptospirosis|Relapsing Fever|Rickettsial Diseases|HIV|Tuberculosis|Malaria|Amoebic Liver Abscess
+  Interventions:                Device: rk28 ICT|Device: IT LEISH (rK39)|Device: Immunochromatographic HAT test|Device: HAT Serostrip|Device: Card Agglutination Trypanosoma Test (CATT)-10|Device: Typhidot M|Device: S. typhi IgM/IgG|Device: Test-it Typhoid IgM|Device: Test-it Leptospirosis IgM|Device: Leptospira IgG/IgM
+  Sponsor/Collaborators:        University Hospital, Geneva|Institute of Tropical Medicine, Belgium|B.P. Koirala Institute of Health Sciences|Institut National de Recherche Biomédicale. Kinshasa, République Démocratique du Congo|University of Khartoum|Sihanouk Hospital Center of HOPE
+  Age:                          5 Years and older   (Child, Adult, Older Adult)
+  Enrollment:                   1927
+  Study Designs:                Intervention Model: Single Group Assignment|Masking: None (Open Label)|Primary Purpose: Diagnostic
+  Start Date:                   January 2013
+  Completion Date:              July 2016
+  Locations:                    Sihanouk Hospital Center of HOPE, Phnom Penh, Cambodia|Reference Hospital Mosango and Kasay Health Centre, Mosango, Bandundu, Congo, The Democratic Republic of the|Institut National de Recherche Biomédicale, Kinshasa, Congo, The Democratic Republic of the|Dhankuta District hospital, Dhankuta, Koshi Zone, Nepal|BP Koirala Institute of Health Sciences, Dharan, Nepal|Tabarak Allah Hospital, Tabarak Allah, Gedaref, Sudan|University of Khartoum, Khartoum, Sudan
+
+Study 127:
+  NCT Number:                   NCT02105714
+  Title:                        Diagnosis of Neglected Tropical Diseases Among Patients With Persistent Digestive Disorders
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Soil-transmitted Helminthiasis|Schistosomiasis|Strongyloidiasis|Shigellosis|Intestinal Salmonellosis|Campylobacteriosis|Aeromonas Spp. Infections|Giardiasis|Amoebiasis|Dientamoebiasis|Cryptosporidium Spp. Infections
+  Interventions:                Procedure: Stool culturing for pathogenic bacteria|Procedure: Kato-Katz technique|Procedure: Baermann technique|Device: Mini-FLOTAC|Device: Crypto/Giardia Duo Strip|Procedure: Formalin-ether concentration technique|Device: CCA RDT|Procedure: Koga agar plate culture|Procedure: Kinyoun staining|Device: Multiplex PCR|Procedure: Metagenomics analysis
+  Sponsor/Collaborators:        Swiss Tropical & Public Health Institute|Institute of Tropical Medicine, Belgium|B.P. Koirala Institute of Health Sciences|Université Félix Houphouët-Boigny|Institut de Recherche en Santé Publique, France|Gadjah Mada University
+  Age:                          1 Year and older   (Child, Adult, Older Adult)
+  Enrollment:                   2800
+  Study Designs:                Observational Model: Case Control|Time Perspective: Prospective
+  Start Date:                   July 2014
+  Completion Date:              May 2016
+  Locations:                    Hôpital Méthodiste de Dabou, Dabou, Côte D'Ivoire|Tulehu health center, Maluku Tengah, Maluku, Indonesia|Tulehu hospital, Maluku Tengah, Maluku, Indonesia|Institut National de Recherche en Santé Publique, Bamako, Mali|Niono District Reference Health Centre, Niono, Mali|Dhankuta District Hospital, Dhankuta, Nepal|B.P. Koirala Institute of Health Sciences, Dharan, Nepal
+
+Study 128:
+  NCT Number:                   NCT00997035
+  Title:                        The Mycotic Ulcer Treatment Trial II: A Randomized Trial Comparing Oral Voriconazole vs Placebo
+  Status:                       Completed
+  Study Results:                Has Results
+  Conditions:                   Corneal Ulcer|Eye Infections, Fungal
+  Interventions:                Drug: Voriconazole|Drug: Placebo
+  Sponsor/Collaborators:        University of California, San Francisco|Aravind Eye Hospitals, India|Dartmouth-Hitchcock Medical Center|Lumbini Eye Institute and Hospital|Bharatpur Eye Hospital|National Eye Institute (NEI)
+  Age:                          16 Years and older   (Child, Adult, Older Adult)
+  Enrollment:                   240
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   May 2010
+  Completion Date:              March 2016
+  Locations:                    Proctor Foundation, UCSF, San Francisco, California, United States|Aravind Eye Hospital, Coimbatore, Tamil Nadu, India|Aravind Eye Hospitals, Madurai, Tamil Nadu, India|Aravind Eye Hospital, Pondicherry, Tamil Nadu, India|Aravind Eye Hospital, Tirunelveli, Tamil Nadu, India|Bharatpur Eye Hospital, Bharatpur, Chitwan, Nepal|Lumbini Eye Institute, Bhairahawa, Lumbini, Nepal
+
+
+Study 129:
+  NCT Number:                   NCT00994734
+  Title:                        Uptake and Acceptability of Home-use of Mifepristone for Medical Abortion
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Termination of Pregnancy
+  Interventions:                Drug: Mifepristone
+  Sponsor/Collaborators:        Gynuity Health Projects
+  Age:                          18 Years to 55 Years   (Adult)
+  Enrollment:                   615
+  Study Designs:                Allocation: Non-Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Health Services Research
+  Start Date:                   May 2009
+  Completion Date:              February 2011
+  Locations:                    Feminist Women's Health Center, Atlanta, Georgia, United States|Family Health Center, Montefiore Medical Center, Bronx, New York, United States|Institute for Family Health, New York, New York, United States|University of Pennsylvania, Philadelphia, Pennsylvania, United States|Municipal Clinical Hospital, Chisinau, Moldova, Republic of|Kathmandu Medical College, Kathmandu, Nepal|Nepal Medical College Teaching Hospital, Kathmandu, Nepal
+
+
+Study 130:
+  NCT Number:                   NCT03382548
+  Title:                        Defining Antibiotic Treatment Duration for Ventilator - Associated Lung Infection
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Ventilator Associated Pneumonia|Pneumonia, Bacterial
+  Interventions:                Drug: Reducing Antibiotics treatment duration|Drug: Standard Antibiotics treatment duration
+  Sponsor/Collaborators:        University of Oxford|Medical Research Council|Department for International Development, United Kingdom|Mahidol Oxford Tropical Medicine Research Unit
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   460
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Double (Participant, Investigator)|Primary Purpose: Treatment
+  Start Date:                   February 26, 2018
+  Completion Date:              December 2021
+  Locations:                    Patan Academy of Health Science, Patan Hospital, Kathmandu, Patan, Nepal|National University Hospital, Singapore, Singapore, Singapore|Tan Tock Seng Hospital, Singapore, Singapore|Thammasat University Hospital, Bangkok, Thailand|Srinagarind Hospital, Khon Kaen, Thailand|Sunpasitthiprasong Hospital, Ubon Ratchathani, Thailand
+ 
+
+Study 131:
+  NCT Number:                   NCT02581527
+  Title:                        A Randomised Trial to Evaluate Toxicity and Efficacy of 1200mg and 1800mg Rifampicin for Pulmonary Tuberculosis
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Pulmonary Tuberculosis
+  Interventions:                Drug: Rifampicin|Drug: Isoniazid|Drug: Ethambutol|Drug: Pyrazinamide
+  Sponsor/Collaborators:        St George's, University of London|London School of Hygiene and Tropical Medicine|University of Botswana
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   654
+  Study Designs:                Allocation: Randomized|Intervention Model: Single Group Assignment|Masking: None (Open Label)|Primary Purpose: Treatment
+  Start Date:                   February 1, 2017
+  Completion Date:              August 2021
+  Locations:                    University of Botswana, Gaborone, Botswana|Hopital National Ignace Deen, Conakry, Guinea|National Institute of Respiratory Diseases (INER), Mexico City, Mexico|GENETUP, National Anti-TB Association, Kathmandu, Nepal|Aga Khan University Hospital, Karachi, Pakistan|Indus Hospital, Karachi, Pakistan|Shaukat Khanum Memorial Cancer Hospital & Research Centre, Lahore, Pakistan|Hospital Nacional Dos de Mayo, Lima, Peru|Epicentre, Mbarara, Uganda
+ 
+
+Study 132:
+  NCT Number:                   NCT02441426
+  Title:                        Interactions of Enteric Infections and Malnutrition and the Consequences for Child Health and Development
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Diarrhea|Malnutrition|Stunting|Wasting|Immune Response|Cognitive Development
+  Interventions:                
+  Sponsor/Collaborators:        Foundation for the National Institutes of Health|University of Virginia|Johns Hopkins University|Aga Khan University|Christian Medical College, Vellore, India|Henry M. Jackson Foundation for the Advancement of Military Medicine|John E. Fogarty International Center (FIC)|Penn State University
+  Age:                          up to 17 Days   (Child)
+  Enrollment:                   1796
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   November 2008
+  Completion Date:              April 2017
+  Locations:                    International Centre for Diarrheal Disease Research, Bangladesh, Dhaka, Bangladesh|Universidade Federal do Ceará, Fortaleza, Brazil|Christian Medical College, Vellore, India|Institute of Medicine, Kathmandu, Nepal|Aga Khan University, Karachi, Pakistan|JHSPH Satellite Laboratory, Iquitos, Peru|University of Venda, Limpopo, South Africa|Haydom Lutheran Hospital, Haydom, Tanzania
+
+
+Study 133:
+  NCT Number:                   NCT04081051
+  Title:                        Advancing Access to Diagnostic Innovation Essential for UHC and AMR Prevention
+  Status:                       Not yet recruiting
+  Study Results:                No Results Available
+  Conditions:                   Acute Febrile Illness
+  Interventions:                Other: diagnostic algorithm+Point of care rapid diagnostic tests+ Behavior change ( assessed together as a single package of interventions)
+  Sponsor/Collaborators:        Foundation for Innovative New Diagnostics, Switzerland|University of Oxford|Indian Council of Medical Research|WHO, Special Programme for Research and Training in Tropical Diseases (TDR)
+  Age:                          6 Months to 65 Years   (Child, Adult, Older Adult)
+  Enrollment:                   10000
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Diagnostic
+  Start Date:                   December 1, 2019
+  Completion Date:              July 31, 2021
+  Locations:                    IRSS-DRCO/Clinical Research Unit of Nanoro (CRUN), Nanoro, Burkina Faso|Shai-Osudoku District Hospital, Accra, Dodowa, Ghana|Jan Swathya Sahyog, Ganiyari, Chhattisgarh, India|National Institute of Cholera & Enteric Diseases, Beliaghata, Kolkata, India|R D Gardi Medical College, Ujjain, Madhya Pradesh, India|Post Graduate Insitute Medical Education and Research, Chandigarh, India|Myanmar Oxford Clinical Research Unit (MOCRU), Medical Action Myanmar (MAM), Yangon, Bahan Township, Myanmar|Patan Academy of Health Sciences, Lalitpur, Lagankhel, Nepal|Infectious Disease research collaboration, Kampala, Uganda
+
+
+Study 134:
+  NCT Number:                   NCT03775460
+  Title:                        Methotrexate and Prednisolone Study in Erythema Nodosum Leprosum
+  Status:                       Not yet recruiting
+  Study Results:                No Results Available
+  Conditions:                   Erythema Nodosum Leprosum
+  Interventions:                Drug: Methotrexate|Drug: Placebo|Drug: Prednisolone
+  Sponsor/Collaborators:        London School of Hygiene and Tropical Medicine|Dr. Soetomo General Hospital|The Leprosy Mission Trust, India|Alert Hospital, Ethiopia|The Leprosy Mission Bangladesh|Bombay Leprosy Project, India|Oswaldo Cruz Foundation|Leprosy Research Initiative|The Leprosy Mission Nepal
+  Age:                          18 Years to 60 Years   (Adult)
+  Enrollment:                   550
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)|Primary Purpose: Treatment
+  Start Date:                   January 1, 2020
+  Completion Date:              April 1, 2022
+  Locations:                    TMLI Bangladesh/ DBLM hospital, Dhaka, Bangladesh|FIOCRUZ, Rio De Janeiro, Brazil|ALERT, Addis Ababa, Ethiopia|The Leprosy Mission Trust, Delhi, India|Bombay Leprosy Project, Mumbai, India|Soetomo Hospital, Surabaya, Indonesia|Anandaban Hospital, Kathmandu, Nepal
+
+
+Study 135:
+  NCT Number:                   NCT03700034
+  Title:                        mHealth Integrated Model of Hypertension, Diabetes and Antenatal Care in India and Nepal
+  Status:                       Not yet recruiting
+  Study Results:                No Results Available
+  Conditions:                   Gestational Diabetes Mellitus (GDM)|Pregnancy Induced Hypertension (PIH)|Anemia
+  Interventions:                Other: mHealth Integrated Model of Antenatal Care
+  Sponsor/Collaborators:        Public Health Foundation of India|London School of Hygiene and Tropical Medicine|Kathmandu University School of Medical Sciences
+  Age:                          18 Years to 49 Years   (Adult)
+  Enrollment:                   1760
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Health Services Research
+  Start Date:                   May 2020
+  Completion Date:              March 2022
+  Locations:                    Primary Health Centres (PHCs), Asifabad, Telangana, India|Primary Health Centres (PHCs), Medak, Telangana, India|Primary Health Centres (PHCs), Rangareddy, Telangana, India|Primary Health Centres, Siddipet, Telangana, India|Primary Health Centres (PHCs), Vikarabad, Telangana, India|Primary Health Centres (PHCs), Yadadri Bhuvnagiri, Telangana, India|Health posts, Dhulikhel, Nepal
+ 
+
+Study 136:
+  NCT Number:                   NCT03283722
+  Title:                        PRESERVE-MITRAL Post-Market Registry
+  Status:                       Active, not recruiting
+  Study Results:                No Results Available
+  Conditions:                   Mitral Valve Disease
+  Interventions:                Device: Profile 3D™ and CG Future® annuloplasty system
+  Sponsor/Collaborators:        Medtronic Cardiovascular
+  Age:                          18 Years to 99 Years   (Adult, Older Adult)
+  Enrollment:                   200
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   September 22, 2017
+  Completion Date:              October 2020
+  Locations:                    National Heart Foundation Hospital & Research Institute, Dhaka, Bangladesh|U. N. Mehta Institute of Cardiology and Research Centre, Ahmedabad, Gujarat, India|SAL Hospital & Medical Institute, Ahmedabad, Gujarat, India|Sri Jayadeva Institute of Cardiovascular Sciences & Research, Bangalore, Karnataka, India|Narayana Hrudayalaya, Bangalore, Karnataka, India|Amrita Institute of Medical Sciences and Research Center, Kochi, Kerala, India|P.D. Hinduja National Hospital and Medical Research Centre, Mumbai, Maharashtra, India|The Madras Medical Mission, Chennai, Tamil Nadu, India|G. Kuppuswamy Memorial Hospital, Coimbatore, Tamil Nadu, India|CARE Hospitals, Hyderabad, Telangana, India|Manmohan Cardiothoracic Vascular and Transplant Center, Kathmandu, Nepal
+
+
+Study 137:
+  NCT Number:                   NCT03188770
+  Title:                        Practice of Ventilation in Middle-Income Countries
+  Status:                       Completed
+  Study Results:                No Results Available
+  Conditions:                   Mechanical Ventilation|Respiratory Distress Syndrome, Adult|Acute Respiratory Failure
+  Interventions:                
+  Sponsor/Collaborators:        Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)|Mahidol Oxford Tropical Medicine Research Unit|Hospital Israelita Albert Einstein
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   1315
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   November 1, 2017
+  Completion Date:              January 29, 2019
+  Locations:                    Chittagong Medical College Hospital, Chittagong, Bangladesh|Bangabandhu Sheikh Mujib Medical University, Dhaka, Bangladesh|BIRDEM General Hospital, Dhaka, Bangladesh|Dhaka Medical College Hospital, Dhaka, Bangladesh|Rajshahi Medical College Hospital, Rajshahi, Bangladesh|Sylhet MAG Osmani Medical College Hospital, Sylhet, Bangladesh|Ispat General Hospital, Raurkela, Odisha, India|St. John's Medical College, Bangalore, India|Bharati Vidyapeeth Medical College, Pune, India|Modarres Hospital, Tehran, Iran, Islamic Republic of|Pars Hospital, Tehran, Iran, Islamic Republic of|Masih Daneshvari Hospital, Tehrān, Iran, Islamic Republic of|Monash University, Johor Bahru, Malaysia|Hospital Kuala Lumpur, Kuala Lumpur, Malaysia|Mohamad Irfan Bin Othman Jailani, Kuala Lumpur, Malaysia|International Islamic University Medical Center, Kuantan, Malaysia|Indira Gandhi Memorial Hospital, Malè, Maldives|Patan Academy of Health Sciences, Katmandou, Nepal|Allied Hospital, Faisalābad, Pakistan|PIMS, Islamabad, Pakistan|Shifa International Hospital, Islamabad, Pakistan|Aga Khan University Hospital MICU, Karachi, Pakistan|Aga Khan University SICU, Karachi, Pakistan|Patel Hospital, Karachi, Pakistan|Doctor's Hospital, Lahore, Pakistan|National Hospital and Medical Center, Lahore, Pakistan|Peoples Medical College Hospital, Nawabshah, Pakistan|North West General Hospital, Peshawar, Pakistan|Batticaloa Base Hospital, Batticaloa, Sri Lanka|Colombo South Teaching Hospital MICU, Colombo, Sri Lanka|Colombo South Teaching Hospital SICU, Colombo, Sri Lanka|Lanka Hospital, Colombo, Sri Lanka|National Hospital Sri Lanka MICU, Colombo, Sri Lanka|National Hospital Sri Lanka SICU, Colombo, Sri Lanka|Sri Jayawardenepura CTICU, Colombo, Sri Lanka|Sri Jayewardenepura General Hospital GICU, Colombo, Sri Lanka|Karapitiya Teaching Hospital, Galle, Sri Lanka|Jaffna Teaching Hospital, Jaffna, Sri Lanka|Puttlam Hospital, Puttalam, Sri Lanka|Chulalongkorn University Hospital, Bangkok, Thailand|Hospital for Tropical Diseases, Mahidol University, Bangkok, Thailand|Ramathibodi Hospital, Bangkok, Thailand|Sriraj Hospital, Bangkok, Thailand|Vajira Hospital, Bangkok, Thailand|Chiang Mai Hospital Surgical ICU, Chiang Mai, Thailand|Chiang Mai Medical ICU, Chiang Mai, Thailand|Nakornping Hospital, Chiang Mai, Thailand|Prince of Songkla University, Hat Yai, Thailand|Srinakharinwirot University, Ongkharak, Thailand|National Hospital for Tropical Diseases, Hanoi, Vietnam|Oxford University Clinical Research Unit, Ho Chi Minh City, Vietnam
+
+Study 138:
+  NCT Number:                   NCT02968264
+  Title:                        Tetralogy of Fallot for Life
+  Status:                       Active, not recruiting
+  Study Results:                No Results Available
+  Conditions:                   Tetralogy of Fallot|Congenital Heart Disease|Congenital Heart Defect
+  Interventions:                
+  Sponsor/Collaborators:        Population Health Research Institute|The Hospital for Sick Children
+  Age:                          Child, Adult, Older Adult
+  Enrollment:                   1108
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   June 2015
+  Completion Date:              September 1, 2021
+  Locations:                    Nemours Children's Hospital, Orlando, Florida, United States|Morgan Stanley Children's Hospital, New York, New York, United States|Royal Children's Hospital, Parkville, Victoria, Australia|Hospital for Sick Children, Toronto, Ontario, Canada|West China Hospital, Chengdu, Sichuan, China|Beijing Fuwai Hospital, Beijing, China|Guangzhou Women and Children's Medical Center, Guangdong, China|Guangdong Cardiovascular Institute, Guangdong, China|Shanghai Children's Medical Centre, Shanghai, China|Shanghai Xinhua Hospital, Shanghai, China|Fortis Escorts Heart Institute, New Delhi, Delhi, India|Kokilaben Dhirubhai Ambani Hospital & Medical Research Institutev, Mumbai, India|Asan Medical Center, Seoul, Korea, Republic of|Manmohan Cardiothoracic Vascular and Transplant Center, Kathmandu, Nepal|Academician E.N. Meshalkin Research, Novosibirsk, Russian Federation|King Abdulaziz University Hospital, Jeddah, Makkah, Saudi Arabia|King Faisal Specialist Hospital and Research Centre - Jeddah, Jeddah, Saudi Arabia|Children's Cardiac Center - Ukraine, Kyiv, Ukraine
+ 
+
+Study 139:
+  NCT Number:                   NCT02150980
+  Title:                        INternational ORthopaedic MUlticenter Study in Fracture Care (INORMUS)
+  Status:                       Recruiting
+  Study Results:                No Results Available
+  Conditions:                   Fractures or Dislocations
+  Interventions:                
+  Sponsor/Collaborators:        McMaster University|Canadian Institutes of Health Research (CIHR)|McMaster Surgical Associates|National Health and Medical Research Council, Australia|Hamilton Health Sciences Corporation
+  Age:                          18 Years and older   (Adult, Older Adult)
+  Enrollment:                   40000
+  Study Designs:                Observational Model: Cohort|Time Perspective: Prospective
+  Start Date:                   April 2014
+  Completion Date:              September 2021
+  Locations:                    Princess Marina Hospital, Gaborone, Botswana|Hospital de Clínicas - UNICAMP, São José dos Campos, Brazil|Anhui Provincial Hospital, Hefei, Anhui, China|Beijing Anzhen Hospital affiliated to Capital University of Medical Sciences, Beijing, Beijing, China|Beijing Chaoyang Hospital, Beijing, Beijing, China|Beijing Luhe Hospital, Beijing, Beijing, China|Xiamen University affiliated First Hospital, Xiamen, Fujian, China|Langfang Aidebao General Hospital, Langfang, Hebei, China|Langfang People's Hospital, Langfang, Hebei, China|Harbin Medical University Second hospital, Harbin, Heilongjiang, China|Second Bethune Hospital of Jilin University, Changchun, Jilin, China|Shenyang Orthopaedic Hospital, Shenyang, Liaoning, China|Hanzhong People's Hospital, Hanzhong, Shaanxi, China|Shanghai No.10 People's Hospital, Shanghai, Shanghai, China|Tianjin Hospital, Tianjin, Tianjin, China|The 2nd affiliated hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China|Black Lion Hospital, Addis Ababa, Ethiopia|Komfo Anokye Teaching Hospital (KATH), Kumasi, Ghana|St John Medical College, Bangalore, India|Post Graduate Institute of Medical Education and Research, Chandigarh, India|AIIMs Hospital, Delhi, India|Indian Institue for Spinal Care, Delhi, India|CMC Ludhiana, Ludhiana, India|Dr L H Hiranandani Hospital, Mumbai, India|Indira Ganghi Medical College, Puducherry, India|Medical College & Hospital, Bharati Vidyapeeth Deemed University, Pune, India|Noble Hospital, Pune, India|Sancheti Institute for Orthopaedics and Rehabilitation, Pune, India|CMC Vellore, Vellore, India|Data Meghe Institute of Medical Sciences, Wardha, India|Rift Valley provincial hospital, Karuru One, Kenya|Kiambu District Hospital, Kiambu, Kenya|AIC Kijabe Hospital, Kijabe, Kenya|Kenyatta National Hospital, Nairobi, Kenya|University of Malawi, Blantyre, Malawi|Hospital Civil de Guadalajara, Guadalajara, Mexico|Social Security Hospitals, Guadalajara, Mexico|Social Security Hospitals, Mexico City, Mexico|Social Security Hospital, Monterrey, Mexico|Lumbini Medical College, Kathmandu, Nepal|State trauma and surgical centre, Ondo, Nigeria|Northwest General Hospital & Research Centre, Peshawar, Pakistan|University Teaching Hospital, Kigali, Rwanda|Charlotte Maxete Johannesburg Acadamic Hospital, Johannesburg, South Africa|Chris Hani Baragwanath Acadamic Hospital, Johannesburg, South Africa|Helen Joseph Hospital, Johannesburg, South Africa|Muhimbili Orthopaedic Institute, Dar es Salaam, Tanzania|Kilimanjaro Christian Medical Centre, Moshi, Tanzania|Fort Portal Regional Referral Hospital, Fort Portal, Uganda|Mulago Hospital, Makerere University College of Health Sciences, Kampala, Uganda|Viet Duc Hospital, Hanoi, Vietnam|Cho Ray Hospital, Ho Chi Minh City, Vietnam
+
+
+Study 140:
+  NCT Number:                   NCT00216333
+  Title:                        Multicenter Trial for the Evaluation of a Fixed Dose Combined Tablet for the Treatment of Pulmonary Tuberculosis
+  Status:                       Unknown status
+  Study Results:                No Results Available
+  Conditions:                   Tuberculosis
+  Interventions:                Drug: combined fixed dose combination
+  Sponsor/Collaborators:        International Union Against Tuberculosis and Lung Diseases|United States Agency for International Development (USAID)
+  Age:                          18 Years to 65 Years   (Adult, Older Adult)
+  Enrollment:                   1500
+  Study Designs:                Allocation: Randomized|Intervention Model: Parallel Assignment|Masking: None (Open Label)|Primary Purpose: Treatment
+  Start Date:                   December 2003
+  Completion Date:              June 2007
+  Locations:                    Service de Pneumo-phtisiologie de Matiben, Algiers, Algeria|Program Nal. de Control de la Tuberculosis, Santa Cruz, Bolivia|Centro Internacional de Entrenamiento, Cali, Colombia|CHU Ignace Deen, Conakry, Guinea|Health Resesarch Center of Manhica, Manhica, Mozambique|Nepal Anti-Tuberculosis Association, Kathmandu, Nepal|Grupo Levir S.A., Lima, Peru|National Institute for Medical Research, Mwanza, Tanzania|National Hospital of TB and Respiratory Diseases, Hanoi, Vietnam
+
+

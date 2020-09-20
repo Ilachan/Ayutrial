@@ -2,7 +2,7 @@ import React from 'react';
 import { InfoSection } from '../../components';
 import { homeObjOne, homeObjTwo, homeObjThree } from './Data';
 
-function CLinicalTrials() {
+function ClinicalTrials() {
   return (
     <>
       <InfoSection {...homeObjOne} />
@@ -12,4 +12,4 @@ function CLinicalTrials() {
   );
 }
 
-export default CLinicalTrials;
+export default ClinicalTrials;

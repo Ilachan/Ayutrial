@@ -8,6 +8,7 @@ export const homeObjOne = {
   headline: 'Ayutrial is a platform for trustworthy clinical trial results in Ayurvedic Medicine.',
   description: 'We also help you all regarding minor ailments that can be cured using home-remedies.ayurveda.',
   buttonLabel: 'Get Started',
+  buttonLink:'../signIn',
   imgStart: '',
   start:'',
   img: require('../../images/medicine.svg'),
@@ -25,6 +26,7 @@ export const homeObjTwo = {
   description:
     "Our system uses blockchain to ensure that the results of clinical trials are not breached.",
   buttonLabel: 'Learn More',
+  buttonLink:'../ClinicalTrials',
   imgStart: '',
   img: require('../../images/tube.jpeg'),
   alt: 'Vault',
@@ -43,6 +45,7 @@ export const homeObjThree = {
   description:
     "These are simple ayurvedic home remedies being used in the Indian subcontinent for centuries. Generally, they are without side effects!",
   buttonLabel: 'View List of Ailments',
+  buttonLink:'../Diseases',
   imgStart: 'start',
   img: require('../../images/Herbs.jpg'),
   alt: 'Vault',

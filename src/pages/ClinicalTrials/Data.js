@@ -9,7 +9,7 @@ export const homeObjOne = {
   description:
     "Our system uses blockchain to ensure that the results of clinical trials are not breached.",
   buttonLabel: 'Learn More',
-  buttonLink:'../Blogs',
+  buttonLink:'../ClinicalTrialData',
   imgStart: '',
   start: '',
   img: require('../../images/data.svg'),
@@ -46,7 +46,6 @@ export const homeObjTwo = {
   description:
     "Our system uses blockchain to ensure that the results of clinical trials are not breached.",
   buttonLabel: 'Learn More',
-  // buttonLink:require('../ClinicalTrials/ClinicalTrialData'),
   imgStart: '',
   img: require('../../images/tube.jpeg'),
   alt: 'Vault',

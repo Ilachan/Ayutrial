@@ -10,7 +10,7 @@ import {
   Heading,
   Subtitle,
   ImgWrapper,
-  Img
+  Img,
 } from './InfoSection.elements';
 
 const InfoSection = ({
@@ -19,6 +19,7 @@ const InfoSection = ({
   imgStart,
   lightTopLine,
   lightTextDesc,
+  wideTextDesc,
   buttonLabel,
   description,
   headline,
@@ -38,7 +39,7 @@ const InfoSection = ({
               <TextWrapper>
                 <TopLine lightTopLine={lightTopLine}>{topLine}</TopLine>
                 <Heading lightText={lightText}>{headline}</Heading>
-                <Subtitle lightTextDesc={lightTextDesc}>{description}</Subtitle>
+                <Subtitle lightTextDesc={lightTextDesc,wideTextDesc}>{description}</Subtitle>
                 <Link to={buttonLink}>
                   <Button1 big fontBig primary={primary}>
                     {buttonLabel}
@@ -55,9 +56,11 @@ const InfoSection = ({
 
         </Container>
       </InfoSec>
+
       
     </>
   )
 }
 
-export default InfoSection
+
+export default InfoSection;
